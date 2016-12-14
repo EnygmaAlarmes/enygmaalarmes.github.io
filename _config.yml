@@ -9,3 +9,14 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+collections:
+  erros:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: erros
+    values:
+      layout: page
