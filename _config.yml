@@ -13,6 +13,8 @@ sass:
 collections:
   erros:
     output: true
+  sections:
+    output: false
 
 defaults:
   - scope:

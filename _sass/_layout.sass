@@ -77,6 +77,8 @@
 
 .site-footer
     border-top: 1px solid $grey-color-light
+    background-color: $grey-color-dark
+    color: $grey-color-light
     padding: $spacing-unit 0
 
 .footer-heading
@@ -108,5 +110,32 @@
     margin-bottom: $spacing-unit
 
 .section-hero
-    background-color: $grey-color-dark
+    padding-top: 120px
+    padding-bottom: 120px
+    background:
+        color: $grey-color-dark
+        image: url('/img/bg-logo.jpg')
+        position: right
+        repeat: no-repeat
     color: #fff
+    .hero-subtitle
+        font-size: 38px
+        text-align: center
+
+.section-servicos
+    font-size: 20px
+
+.section-marcas
+    padding: $spacing-unit
+    border-top: 5px solid $background-color
+    border-bottom: 5px solid $background-color
+    background-color: $beige
+    .marcas-item
+        padding: $spacing-unit / 2
+        width: 140px
+    +media-greater($on-laptop)
+        .marcas-container
+            flex-wrap: nowrap
+    +media-query($on-palm)
+        .marcas-item
+            width: 38%

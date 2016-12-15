@@ -2,11 +2,8 @@
 layout: default
 ---
 
-<section class="page-content section-hero" id="hero">
-  <div class="wrapper" data-grid="column center">
-    <h1>
-        <img src="{{ site.baseurl }}/img/logo-ENYGMA.png" width="400" alt="Enygma Sistemas de Segurança">
-    </h1>
-    <h2>Sistemas de Segurança</h2>
-  </div>
-</section>
+{% for section in site.sections %}
+  <section class="page-content section-{{ section.name }}" id="{{ section.name }}">
+      {{ section.content }}
+  </section>
+{% endfor %}
