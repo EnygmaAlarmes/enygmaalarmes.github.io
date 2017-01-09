@@ -1,11 +1,20 @@
 <footer class="site-footer">
 
-  <div class="wrapper" data-grid="column center">
-
-    <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-    <p>Whatsapp: <a href="tel:+5515997656518">(15) 9 9765.6518</a></p>
-    <p>{{ site.description }}</p>
-
+  <div class="wrapper" data-grid="spacing">
+    <div data-cell="1of3">
+      <h2>Fale conosco</h2>
+      <p data-cell="shrink"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p data-cell="shrink">Whatsapp: <a href="tel:+5515997656518">(15) 9 9765.6518</a></p>
+      <p>{{ site.description }}</p>
+    </div>
+    <form action="/enviar_email.php" id="contato">
+      <p><label for="nome">Nome</label><input name="nome" type="text" required placeholder="Seu nome completo"></p>
+      <p><label for="tel">Telefone</label><input name="tel" type="tel" required placeholder="(13) 9999-9999"></p>
+      <p><label for="email">E-mail</label><input name="email" type="email" required placeholder="mail@dominio.com"></p>
+      <p><label for="msg">Mensagem</label><textarea name="msg" cols="30" rows="5" placeholder="Digite a sua mensagem..."></textarea></p>
+      <p class="honeypot"><label for="honey">Se estiver vendo isto, deixe este campo em branco:</label><input name="honey" type="text"></p>
+      <p data-grid="end"><button data-cell="shrink">Enviar</button></p>
+    </form>
   </div>
 
 </footer>

@@ -15,6 +15,10 @@ body
     font-feature-settings: "kern" 1
     font-kerning: normal
 
+    box-sizing: border-box
+    *
+        box-sizing: inherit
+
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -47,6 +51,7 @@ h1, h2, h3, h4, h5, h6
 a
     color: $brand-color
     text-decoration: none
+    transition: .3s ease-in-out
 
     &:hover
         color: $text-color
@@ -82,6 +87,9 @@ pre
         padding-right: 0
         padding-left: 0
 
+hr
+    border-width: 0 0 1px
+
 .wrapper
     max-width: $content-width
     margin-right: auto
@@ -110,3 +118,18 @@ pre
 
         path
             fill: $grey-color
+
++module(btn)
+    padding: .5em 2em
+    text-align: center
+    display: inline-block
+    background-color: $brand-color
+    color: #fff
+    border-radius: 4px
+    transition: .3s ease-in-out
+    &:hover, &:active
+        color: #fff
+        text-decoration: none
+        box-shadow: 0 3px 10px 0 rgba($brand-color, .8)
+    +variant(block)
+        display: block

@@ -1,6 +1,9 @@
 title: Enygma Sistemas de Segurança
 email: contato@enygmaalarmes.com.br
-description: > 
+description: >
+  Somos a sua empresa de segurança, especializada na instalação e
+  manutenção de sistemas de segurança para a sua residência ou
+  empresa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://enygmaalarmes.com.br"
 
@@ -9,6 +12,9 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+gems:
+  - jekyll-coffeescript
 
 collections:
   erros:

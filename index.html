@@ -4,6 +4,8 @@ layout: default
 
 {% for section in site.sections %}
   <section class="page-content section-{{ section.name }}" id="{{ section.name }}">
+  	{% if section.wrapper %}<div class="{{ section.wrapper }}"{% if section.grid %} data-grid="{{ section.grid }}"{% endif %}>{% endif %}
       {{ section.content }}
+  	{% if section.wrapper %}</div>{% endif %}
   </section>
 {% endfor %}
