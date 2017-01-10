@@ -47,6 +47,11 @@ li
 
 h1, h2, h3, h4, h5, h6
     font-weight: $base-font-weight
+    line-height: 1.2
+
+@for $i from 1 through 6
+    h#{$i}
+        font-size: $base-font-size + ( 40px * ( 1 / $i ) )
 
 a
     color: $brand-color
@@ -54,7 +59,6 @@ a
     transition: .3s ease-in-out
 
     &:hover
-        color: $text-color
         text-decoration: underline
 
 blockquote
@@ -97,6 +101,9 @@ hr
     padding-right: $spacing-unit
     padding-left: $spacing-unit
 
+    &.large
+        max-width: $large-content-width
+
     @extend %clearfix
 
     +media-query($on-laptop)
@@ -133,3 +140,12 @@ hr
         box-shadow: 0 3px 10px 0 rgba($brand-color, .8)
     +variant(block)
         display: block
+
+.slideshow
+    height: 100vh
+    overflow: hidden
+
+.slide
+    height: 100%
+    overflow: hidden
+
