@@ -35,6 +35,9 @@ figcaption
 
 ul, ol
     margin-left: $spacing-unit
+    &.seamless
+        margin: auto
+        list-style: none
 
 li
     > ul,
@@ -44,6 +47,7 @@ li
 h1, h2, h3, h4, h5, h6
     font-weight: $base-font-weight
     line-height: 1.2
+    color: $grey-color-dark
 
 @for $i from 1 through 6
     h#{$i}
@@ -93,6 +97,8 @@ pre
     margin-left: auto
     padding-right: $spacing-unit
     padding-left: $spacing-unit
+    &.large
+        max-width: $large-content-width
 
     @extend %clearfix
 
@@ -118,9 +124,15 @@ pre
 
 +module(btn)
     display: inline-block
+    padding: .5em 1.5em
+    line-height: $base-line-height
     text-decoration: none
     background: transparent none
     color: $brand-color
     border: 1px solid
+    border-radius: 500px
+    @extend %ui-transition-base
     &:hover, &:focus
-        color: $grey-color-dark
+        background-color: $brand-color
+        color: #fff
+        text-decoration: none

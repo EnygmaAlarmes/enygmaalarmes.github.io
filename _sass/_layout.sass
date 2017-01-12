@@ -76,13 +76,15 @@
             margin-left: 20px
 
 .site-footer
-    border-top: 1px solid $grey-color-light
-    background-color: $grey-color-dark
-    color: $grey-color-light
+    background-color: $brand-color
     padding: $spacing-unit 0
+    color: #fff
+    .footer-heading
+        text-align: center
+    a
+        color: $ui-color-active
 
 .footer-heading
-    font-size: 18px
     margin-bottom: $spacing-unit / 2
 
 .page-content
@@ -115,9 +117,25 @@
     .hero-title
         font-size: 38px
     .hero-subtitle
-        font-size: 18px
+        font-size: $base-font-size
         font-weight: 600
         color: $grey-color-dark
+    .hero-gallery
+        li
+            img
+                float: right
+                clear: right
+                max-width: 60%
+                box-shadow: -3px 3px 7px 0 rgba($grey-color, .6)
+        li:not(:last-child)
+            img
+                margin-bottom: -20%
+        li:nth-child(2)
+            img
+                transform: translate(-65%)
+        li:nth-child(3)
+            img
+                max-width: 50%
 
 .section-servicos
     font-size: 20px
@@ -125,6 +143,8 @@
 .section-marcas
     padding-left: $spacing-unit
     padding-right: $spacing-unit
+    border-top: 1px solid $grey-color-light
+    border-bottom: 1px solid $grey-color-light
     .marcas-item
         padding: $spacing-unit / 2
         width: 140px
@@ -136,3 +156,16 @@
     +media-query($on-palm)
         .marcas-item
             width: 38%
+
+.section-sobre
+    +media-greater($on-palm)
+        background:
+            image: url(/img/seguranca-muro.jpg)
+            position: center right
+            repeat: no-repeat
+            size: cover
+        padding-top: $spacing-unit * 2
+        padding-bottom: $spacing-unit * 2
+        .sobre-excerpt
+            padding: $spacing-unit
+            background-color: $background-color
