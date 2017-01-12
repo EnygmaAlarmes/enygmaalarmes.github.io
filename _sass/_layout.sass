@@ -110,29 +110,26 @@
     margin-bottom: $spacing-unit
 
 .section-hero
-    padding-top: 120px
-    padding-bottom: 120px
-    background:
-        color: $grey-color-dark
-        image: url('/img/bg-logo.jpg')
-        position: right
-        repeat: no-repeat
-    color: #fff
-    .hero-subtitle
+    background-color: $grey-color-light
+    color: $brand-color
+    .hero-title
         font-size: 38px
-        text-align: center
+    .hero-subtitle
+        font-size: 18px
+        font-weight: 600
+        color: $grey-color-dark
 
 .section-servicos
     font-size: 20px
 
 .section-marcas
-    padding: $spacing-unit
-    border-top: 5px solid $background-color
-    border-bottom: 5px solid $background-color
-    background-color: $beige
+    padding-left: $spacing-unit
+    padding-right: $spacing-unit
     .marcas-item
         padding: $spacing-unit / 2
         width: 140px
+        img
+            opacity: .3
     +media-greater($on-laptop)
         .marcas-container
             flex-wrap: nowrap

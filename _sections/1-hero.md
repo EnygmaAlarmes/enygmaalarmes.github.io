@@ -1,9 +1,13 @@
 ---
 name: hero
+menu-title: Início
 ---
 
 
-<div class="wrapper" data-grid="column center">
-    <h1><img src="{{ site.baseurl }}/img/logo-ENYGMA.png" width="400" alt="Enygma Sistemas de Segurança"></h1>
-    <h2 class="hero-subtitle">Sistemas de Segurança</h2>
+<div class="wrapper" data-grid="center spacing">
+    <div data-cell="1of2">
+        <h1 class="hero-title">Somos especialistas em sistemas de segurança</h1>
+        <h2 class="hero-subtitle">Entregue o que há de melhor em sistemas de segurança para sua empresa e seus clientes</h2>
+    </div>
+    <div data-cell="1of2"></div>
 </div>

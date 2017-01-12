@@ -1,5 +1,6 @@
 ---
 name: servicos
+menu-title: Serviços
 ---
 
 <div class="wrapper" data-grid="center spacing">
