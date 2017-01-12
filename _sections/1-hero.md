@@ -1,5 +1,5 @@
 ---
-name: hero
+name: home
 menu-title: Início
 ---
 

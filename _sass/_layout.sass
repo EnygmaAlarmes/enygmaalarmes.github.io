@@ -1,10 +1,15 @@
 .site-header
     border-top: 5px solid $grey-color-dark
     border-bottom: 1px solid $grey-color-light
+    background-color: #fff
     min-height: 56px
-
-    // Positioning context for the mobile navigation icon
-    position: relative
+    position: fixed
+    top: 0
+    left: 0
+    right: 0
+    z-index: 999
+    + *
+        margin-top: 61px
 
 .site-title
     font-size: 26px
@@ -28,10 +33,16 @@
     .page-link
         color: $text-color
         line-height: $base-line-height
+        border-bottom: 5px solid transparent
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child)
             margin-right: 20px
+
+    .active
+        text-decoration: none
+        padding-bottom: 15px
+        border-bottom: 5px solid $brand-color
 
     +media-query($on-palm)
         position: absolute
@@ -111,7 +122,7 @@
 .post-content
     margin-bottom: $spacing-unit
 
-.section-hero
+.section-home
     background-color: $grey-color-light
     color: $brand-color
     .hero-title
@@ -160,12 +171,12 @@
 .section-sobre
     +media-greater($on-palm)
         background:
-            image: url(/img/seguranca-muro.jpg)
-            position: center right
+            image: url(/img/bg-camera.jpg)
+            position: center
             repeat: no-repeat
             size: cover
-        padding-top: $spacing-unit * 2
-        padding-bottom: $spacing-unit * 2
+        padding-top: $spacing-unit * 3
+        padding-bottom: $spacing-unit * 3
         .sobre-excerpt
             padding: $spacing-unit
             background-color: $background-color

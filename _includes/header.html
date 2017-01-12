@@ -7,7 +7,7 @@
     <nav class="site-nav">
       {% for section in site.sections %}
         {% if section.menu-title %}
-          <a class="page-link" href="{{ section.url | prepend: site.baseurl }}">{{ section.menu-title }}</a>
+          <a class="page-link" href="#{{ section.name }}">{{ section.menu-title }}</a>
         {% endif %}
       {% endfor %}
       <a href="#" class="" data-btn="">Contato</a>
