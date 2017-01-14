@@ -10,6 +10,9 @@ markdown: kramdown
 sass:
   style: compressed
 
+gems:
+  - jekyll-coffeescript
+
 collections:
   erros:
     output: true

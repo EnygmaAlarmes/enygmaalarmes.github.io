@@ -9,21 +9,23 @@ $base-font-weight: 400
 $small-font-size:  $base-font-size * 0.875
 $base-line-height: 1.5
 
-$spacing-unit:     30px
+$spacing-unit:     40px
 
-$text-color:       #444
+$text-color:       #555
 $background-color: #fff
-$brand-color:      #2a7ae2
+$brand-color:      #1eafed
+$ui-color-active:  #ede81e
 
+$grey-color-light: #f6f6f6
 $grey-color:       #5b6076
-$grey-color-light: #cacdd7
-$grey-color-dark:  #00131d
+$grey-color-dark:  #2a638c
 
-$beige: #e5e5d9
+$large-content-width : 1200px
+$content-width       : 1000px
+$on-palm             : 600px
+$on-laptop           : 800px
 
-$content-width:    800px
-
-$on-palm:          600px
-$on-laptop:        800px
+%ui-transition-base
+	transition: .3s ease-in-out
 
 @import "mixins", "base", "forms", "grid", "layout"
