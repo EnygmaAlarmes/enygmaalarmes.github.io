@@ -14,7 +14,7 @@ Um sistema de alarme é um conjunto de equipamentos eletroeletrônicos que tem p
 
 ## Alarmes monitorados e não monitorados acionado por controle ou teclado digital.
 
-### AMT2010 INTELBRAS
+### AMT 2010 INTELBRAS
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_0.jpg)
 
@@ -32,11 +32,11 @@ Central de alarme com tecnologia avançada e fácil programação. Possui 8 mem�
 
 ## LINHA NÃO MONITORADA
 
-### ANM203 INTELBRAS
+### ANM 203 INTELBRAS
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_3.jpg)
 
-Compacta, de fácil utilização e instalação, a ANM 2003 possui tempo de disparo da sirene programável, carregador de bateria (12 V) inteligente com proteção contra curto-circuito ou inversão de polaridade e função de teste (JP2), que auxilia na instalação e manutenção do sistema de alarme. Pode ser conectada a vários tipos de sensores, como de abertura e infravermelho. Ideal para empresas, residências, condomínios residenciais e empresariais, demais estabelecimentos comerciais de pequeno e médio porte.
+Compacta, de fácil utilização e instalação, a ANM 2003 possui tempo de disparo da sirene programável, carregador de bateria (12V) inteligente com proteção contra curto-circuito ou inversão de polaridade e função de teste (JP2), que auxilia na instalação e manutenção do sistema de alarme. Pode ser conectada a vários tipos de sensores, como de abertura e infravermelho. Ideal para empresas, residências, condomínios residenciais e empresariais, demais estabelecimentos comerciais de pequeno e médio porte.
 
 » Fonte chaveada Full Range de 90-265 VAC (automática)» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria» Detecção de bateria baixa, ausente, invertida e/ou em curto» Receptor incorporado e controle remoto com bateria incluso» Capacidade para configuração de Zona 24 h com aviso sonoro» Tempo de sirene programável» Sinalização visual (status) na central de alarme» Gabinete plástico para proteção da central com alojamento para bateria
 
@@ -70,7 +70,7 @@ Central de alarme convencional para até 2 zonas mistas com fonte chaveada e dis
 
 * Saída de relê para acionamento de cargas (portões automáticos, lâmpadas, etc).
 
-* Permite programação e interação remota via telefone para arme/desarme e acionamento da saída de relê.
+* Permite programação e interação remota via telefone para arme/desarme e acionamento da saída de relé.
 
 * Rearme automático após desarme.
 
@@ -82,11 +82,11 @@ Central de alarme convencional para até 2 zonas mistas com fonte chaveada e dis
 
 ## SENSORES DE ABERTURA SEM FIO INTELBRAS E JFL
 
-### XAS4010 INTELBRAS
+### XAS 4010 INTELBRAS
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_6.jpg)![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_7.jpg)
 
-O XAS 4010 SMART é um sensor de abertura para portas e janelas com design diferenciado, discreto e compacto. Ele acompanha bateria de lítio de longa duração e tem ótimo desempenho em ambientes fechados, além de indicação de bateria fraca no sensor, supervisão de abertura/fechamento e sistema antijammer.
+O XAS 4010 SMART é um sensor de abertura para portas e janelas com design diferenciado, discreto e compacto. Ele acompanha bateria de lítio de longa duração e tem ótimo desempenho em ambientes fechados, além de indicação de bateria fraca no sensor, supervisão de abertura/fechamento e sistema anti jammer.
 
 ### SHC-Fit JFL
 
@@ -152,9 +152,9 @@ Características:
 
 - Formas de detecção: Feixes Interrompidos ao mesmo tempo
 
-- Fonte de feixes: Leds Infravermelhor
+- Fonte de feixes: Leds Infravermelhos
 
-- Velocidade de resposta: 50 - 700mseg
+- Velocidade de resposta: 50 - 700 mseg
 
 - Saída de alarme AC DC 30V / 0.5A
 
@@ -168,7 +168,7 @@ Características:
 
 - Ajuste vertical do ângulo do feixe: 20º (+- 10º)
 
-- Tecnologia com geada e nevoeiro: Implementada onde ultra-sônica
+- Tecnologia com geada e nevoeiro: Implementada onda ultra-sônica
 
 - Outras funções implementadas: Led de recepção, sinal de Ok, ponto de verificação
 
@@ -198,7 +198,7 @@ Duplo sensor infravermelho PET digital com cobertura de 14m e ângulo de 90º.
 
 * Indicado para áreas semiabertas (garagem, varanda com cobertura, entre outros).
 
-## SENSORES INFRAVERMEHO COM FIO INTELBRAS
+## SENSORES INFRAVERMELHOS COM FIO INTELBRAS
 
 ### IVP300CF INTELBRAS
 
@@ -206,7 +206,7 @@ Duplo sensor infravermelho PET digital com cobertura de 14m e ângulo de 90º.
 
 O novo membro da família IVP possui lente leitosa, compensação automática de temperatura, cobertura com ângulo de 115° e alcance de 12m,  tudo isso evitando disparos falsos causados por objetos da sua casa.
 
-» Tecnologia digital de detecção microprocessada» 2 níveis de sensibilidade» Não necessita articulador para instalação na parede» Infravermelho passivo com duplo elemento» Estabilização e auto teste em apenas 40 segundos» Contato normalmente fechado
+» Tecnologia digital de detecção microprocessada» 2 níveis de sensibilidade» Não necessita articulador para instalação na parede» Infravermelho passivo com duplo elemento» Estabilização e autoteste em apenas 40 segundos» Contato normalmente fechado
 
 ### IVP 3000 PET INTELBRAS
 
@@ -218,17 +218,17 @@ O sensor de infravermelho passivo IVP 3000 PET oferece detecção eficiente com 
 
 # LINHA ELETRIFICADORES JFL
 
-## COMOFUNCIONA?
+## COMO FUNCIONA?
 
 A cerca elétrica tem duas funções primordiais, a primeira é afugentar o invasor, aplicando uma tensão de aproximadamente 10 mil volts no sujeito de forma pulsante, com 60 pulsos por segundo. Para que o ladrão seja afugentado e não fique grudado na sua cerca, a corrente elétrica é muito baixa, por isso não é mortal, mas pode causar uma certa queimadura no local.
 
 Para que a pessoa receba um choque é necessário ter um caminho para a corrente elétrica, se você segurar em uma fase de baixa tensão devidamente isolado nada irá ocorrer, mas como na cerca elétrica a tensão é muito alta, a isolação dos sapatos não é suficiente, ocasionando uma corrente elétrica em direção ao terra e sentida pelo meliante.
 
-Outra forma é a proteção conta falta de energia, se alguém tentar cortar os fios, um alarme é disparado, da mesma forma acontece quando uma descarga elétrica é disparada contra alguém que encostou nos fios. Para que cortando a energia na residência a cerca não pare de funcionar, ela é alimentada por uma pequena bateria. 
+Outra forma é a proteção contra falta de energia, se alguém tentar cortar os fios, um alarme é disparado, da mesma forma acontece quando uma descarga elétrica é disparada contra alguém que encostou nos fios. Para que cortando a energia na residência a cerca não pare de funcionar, ela é alimentada por uma pequena bateria. 
 
 Como tudo na vida, para que seja eficiente, uma boa manutenção e cuidados são muito bem vindos para o adequado funcionamento de sua cerca elétrica.
 
-### ECR-8DISC
+### ECR-8 DISC
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_14.png)
 
@@ -258,7 +258,7 @@ Eletrificador para cerca elétrica com arme/desarme por controle remoto e contro
 
 AGORA COM 18.000VCENTELHA MAIS POTENTE
 
-* Energia de pulso de saída: 0,5Joule.
+* Energia de pulso de saída: 0,5 Joule.
 
 * Tensão de saída em aberto de 18.000V.
 
@@ -298,9 +298,9 @@ O XPE 1001 T é um acessório para centrais telefônicas Intelbras, ideal para l
 
 Permite conversar com quem está chamando e abrir 2 fechaduras: contato seco e eletromagnética (12 V). Possui alimentação no módulo externo e sistema antissabotagem (comunicação via protocolo digital), realiza interface com qualquer central de alarme, para comunicar possíveis vandalismos no módulo externo. O IPR 8000 aceita sensor magnético com fio, com isto, assim que o porteiro residencial detectar que o portão permanece aberto ele emitirá um alerta sonoro.
 
-## LINHA CONDOMINIAL(ACESSORIOS)
+## LINHA CONDOMINIAL (ACESSÓRIOS)
 
-### XPE1013PLUS
+### XPE 1013 PLUS
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_20.jpg)
 
@@ -326,7 +326,7 @@ TP 2000 Desenvolvido para ambientes prediais e condomínios, o TP 2000 possui te
 
 ## LINHA CONDOMINIAL
 
-### CP112
+### CP 112
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_23.jpg)
 
@@ -340,9 +340,9 @@ A CP 112 possui capacidade de 8 até 112 ramais e permite ligações sigilosas, 
 
 A CP 352 possui capacidade de 16 até 352 ramais e permite ligações sigilosas, diretas e sem custo entre apartamentos. Fácil de instalar e configurar (via software programador*) é ideal para condomínios com necessidade de até 352 pontos de conversação.
 
-» Conector de pressão (engate rápido) para conexão de ramaisBivolt automático» Identificação de ramal para os apartamentos» Placa de serviço com 2 linhas tronco e 24 ramais balanceados (opcional)» Numeração flexível de ramais» Consulta de número físico e flexível» Modo de acesso às linhas (alternado e sequencial)» Grupo atendedor com até 5 ramais por linha» Portaria presente» Desvio de chamadas» Relógio de tempo real» Bloqueio de ligação tarifada» Função Hotramal» Função hotportaria» Pega-trote» Transferência» Siga-me» Despertador» Conferência» Não perturbe» Bipe de chamadas em espera» Retorno se ocupado e se não atende» Espera com música, externa ou interna» Integração com dispositivos de segurança
+» Conector de pressão (engate rápido) para conexão de ramais Bivolt automático» Identificação de ramal para os apartamentos» Placa de serviço com 2 linhas tronco e 24 ramais balanceados (opcional)» Numeração flexível de ramais» Consulta de número físico e flexível» Modo de acesso às linhas (alternado e sequencial)» Grupo atendedor com até 5 ramais por linha» Portaria presente» Desvio de chamadas» Relógio de tempo real» Bloqueio de ligação tarifada» Função Hot Ramal» Função hot portaria» Pega-trote» Transferência» Siga-me» Despertador» Conferência» Não perturbe» Bipe de chamadas em espera» Retorno se ocupado e se não atende» Espera com música, externa ou interna» Integração com dispositivos de segurança
 
-### CP192
+### CP 192
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_26.jpg)
 
@@ -364,7 +364,7 @@ A COMUNIC 48 é fácil de instalar e de usar, ela chegou para ser a central de p
 
 A caçula da linha de centrais de portaria foi projetada para condomínios de menor porte, contando com a mesma qualidade e as mesmas funções da COMUNIC 48.
 
-Com custo-benefício insuperável, a COMUNIC 16 é a menor central de portaria modular do mercado! Ela permite a ligação de até 16 pontos distintos dentro de um condomínio, que podem realizar ligações entre si sem custo algum. Além disso, é superfácil de instalar e usar: toda sua programação e atualização é feita através de conexão USB.
+Com custo-benefício insuperável, a COMUNIC 16 é a menor central de portaria modular do mercado! Ela permite a ligação de até 16 pontos distintos dentro de um condomínio, que podem realizar ligações entre si sem custo algum. Além disso, é super fácil de instalar e usar: toda sua programação e atualização é feita através de conexão USB.
 
 * Ligações diretas, sigilosas e sem custos entre os apartamentos
 
@@ -380,7 +380,7 @@ Com custo-benefício insuperável, a COMUNIC 16 é a menor central de portaria m
 
 * Identificação de BINA em qualquer posição de ramal
 
-* Entrada de botoeira para acionamento de emêrgencia (Pânico)
+* Entrada de botoeira para acionamento de emergência (Pânico)
 
 * Transferências de ligações
 
@@ -390,7 +390,7 @@ Com custo-benefício insuperável, a COMUNIC 16 é a menor central de portaria m
 
 * Identificação da versão de software da central
 
-# DVRS E CAMERAS INTELBRAS
+# DVRS E CÂMERAS INTELBRAS
 
 ## COMO FUNCIONA?
 
@@ -398,7 +398,7 @@ A câmera de segurança envia o sinal de vídeo ou imagens capturada ao DVR Stan
 
 Para o bom funcionamento de uma câmera de segurança temos que instalar uma fonte de alimentação de boa qualidade e dimensionamento adequado para a câmera e qualidade no conector e cabo de vídeo para não ter perda no sinal.
 
-## CAMERAS LINHA HDCVI
+## CÂMERAS LINHA HDCVI
 
 ### Câmera HDCVI com infravermelho
 
@@ -414,7 +414,7 @@ Garante imagens mais nítidas e iluminação uniforme no modo Noite. Com esse re
 
 A câmera possui um case metálico de alta resistência mecânica, com grau de proteção IP66 que permite ser instalada em ambientes internos e externos. Ela também está equipada com um circuito adicional de proteção contra surto de tensão, garantindo a proteção no sinal de vídeo e na alimentação.
 
-### HDCVI1010
+### HDCVI 1010
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_31.png)![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_32.jpg)
 
@@ -430,7 +430,7 @@ Garante imagens mais nítidas e iluminação uniforme no modo Noite. Com esse re
 
 A câmera possui um circuito adicional de proteção contra surto de tensão, garantindo a proteção no sinal de vídeo e na alimentação. Além disso, a câmera possui case plástico com proteção anti UV e IP66 que pode ser instalada interna e externamente. Sua proteção anti UV permite uma resistência maior contra os efeitos dos raios solares atrasando o amarelamento.
 
-### HDCVI1120 B G2
+### HDCVI 1120 B G2
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_33.png) ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_34.png)
 
@@ -444,9 +444,9 @@ Garante imagens mais nítidas e iluminação uniforme no modo Noite. Com esse re
 
 A câmera possui um circuito adicional de proteção contra surto de tensão, garantindo a proteção no sinal de vídeo e na alimentação. Além disso, possui também case plástico com proteção anti UV e IP66 que pode ser instalada interna e externamente. Sua proteção anti UV permite uma resistência maior contra os efeitos dos raios solares atrasando o amarelamento.
 
-## CAMERA LINHA VHD
+## CÂMERA LINHA VHD
 
-### VHD 3120 D G3 SERIE 3000
+### VHD 3120 D G3 SÉRIE 3000
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_35.jpg)![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_36.png)
 
@@ -478,7 +478,7 @@ A câmera possui um circuito adicional de proteção contra surto de tensão, ga
 
 # Gravadores digitais
 
-## GRAVADORES DIGITAIS DE VIDEO( MULTI HD) 
+## GRAVADORES DIGITAIS DE VÍDEO( MULTI HD) 
 
 ### MHDX 1004
 
@@ -494,7 +494,7 @@ Com o Intelbras iSIC 6 para smartphones e o Intelbras S.I.M. Plus para desktops 
 
 O MHDX 1004 grava imagens com resolução HD (720p @ 15 FPS) ou em 1080N @ 30 FPS garantindo melhor definição e riqueza de detalhes.  
 
-A Intelbras inova mais uma vez trazendo o 1080N como novo padrão de resolução. A resolução 1080N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p). Esse benefício faz com que a Série 1000 Multi HD se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p). Esse benefício faz com que a Série 1000 Multi HD se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -514,9 +514,9 @@ Composta por produtos de entrada, a Série 1000 é ideal para pequenos e médios
 
 Com o Intelbras iSIC 6 para smartphones e o Intelbras S.I.M. Plus para desktops e notebooks, o gerenciamento das imagens pode ser realizado na própria empresa, ou de qualquer lugar, via internet. A qualidade da visualização remota das imagens dependerá da taxa de upload* do plano de internet contratado.
 
-O MHDX 1008 grava imagens com resolução HD (720p @ 15 FPS) ou em 1080N @ 12 FPS garantindo melhor definição e riqueza de detalhes.  
+O MHDX 1008 grava imagens com resolução HD (720p @ 15 FPS) ou em 1080 N @ 12 FPS garantindo melhor definição e riqueza de detalhes.  
 
-A Intelbras inova mais uma vez trazendo o 1080N como novo padrão de resolução. A resolução 1080N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p). Esse benefício faz com que a Série 1000 Multi HD se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p). Esse benefício faz com que a Série 1000 Multi HD se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -534,9 +534,9 @@ Composta por produtos de entrada, a Série 1000 é ideal para pequenos e médios
 
 Com o Intelbras iSIC 6 para smartphones e o Intelbras S.I.M. Plus para desktops e notebooks, o gerenciamento das imagens pode ser realizado na própria empresa, ou de qualquer lugar, via internet. A qualidade da visualização remota das imagens dependerá da taxa de upload* do plano de internet contratado.
 
-O MHDX 1016 grava imagens com resolução HD (720p @ 15 FPS) ou em 1080N @ 12 FPS garantindo melhor definição e riqueza de detalhes.
+O MHDX 1016 grava imagens com resolução HD (720p @ 15 FPS) ou em 1080 N @ 12 FPS garantindo melhor definição e riqueza de detalhes.
 
-A Intelbras inova mais uma vez trazendo o 1080N como novo padrão de resolução. A resolução 1080N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p). Esse benefício faz com que a Série 1000 Multi HD se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p). Esse benefício faz com que a Série 1000 Multi HD se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -544,21 +544,21 @@ De forma prática, podemos conectar aleatoriamente as tecnologias HDCVI, AHD, HD
 
 Com capacidade para 1 disco rígido padrão SATA, esse DVR possui maior armazenamento de imagens e suporte aos arquivos de vídeos.
 
-## GRAVADORES DIGITAIS DE VIDEO( HDCVI)
+## GRAVADORES DIGITAIS DE VÍDEO( HDCVI)
 
 ### HDCVI 1004 G2
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_42.jpg) 
 
-Os equipamentos da linha Intelbras HDCVI gravam e transmitem imagens em HD utilizando os mesmos cabos e acessórios¹ do sistema analógico. Sem a necessidade de novos cabos, são a solução ideal para quem deseja imagens em resolução 720p (HD) e 1080N com baixo custo. E o melhor, a instalação é rápida e descomplicada.
+Os equipamentos da linha Intelbras HDCVI gravam e transmitem imagens em HD utilizando os mesmos cabos e acessórios¹ do sistema analógico. Sem a necessidade de novos cabos, são a solução ideal para quem deseja imagens em resolução 720p (HD) e 1080 N com baixo custo. E o melhor, a instalação é rápida e descomplicada.
 
 Com o Intelbras iSIC 6 para smartphones e o Intelbras S.I.M. Plus para desktops e notebooks, o gerenciamento das imagens pode ser realizado na própria empresa, ou de qualquer lugar, via internet. A qualidade da visualização remota das imagens dependerá da taxa de upload¹ do plano de internet contratado.
 
 O HDCVI 1004 - Geração 2 é capaz de gravar e gerenciar imagens nas três tecnologias – analógica, HDCVI e IP –, proporcionando muito mais flexibilidade aos projetos de CFTV.
 
-O HDCVI 1004 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 30 FPS) ou em 1080N @ 30 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
+O HDCVI 1004 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 30 FPS) ou em 1080 N @ 30FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
 
-A Intelbras inova mais uma vez trazendo o 1080N como novo padrão de resolução. A resolução 1080N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -568,33 +568,33 @@ De forma prática, podemos conectar aleatoriamente as tecnologias HDCVI ou anal�
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_43.jpg)
 
-Os equipamentos da linha Intelbras HDCVI gravam e transmitem imagens em HD utilizando os mesmos cabos e acessórios¹ do sistema analógico. Sem a necessidade de novos cabos, são a solução ideal para quem deseja imagens em resolução 720p (HD) e 1080N com baixo custo. E o melhor, a instalação é rápida e descomplicada. 
+Os equipamentos da linha Intelbras HDCVI gravam e transmitem imagens em HD utilizando os mesmos cabos e acessórios¹ do sistema analógico. Sem a necessidade de novos cabos, são a solução ideal para quem deseja imagens em resolução 720p (HD) e 1080 N com baixo custo. E o melhor, a instalação é rápida e descomplicada. 
 
 Com o Intelbras iSIC 6 para smartphones e o Intelbras S.I.M. Plus para desktops e notebooks, o gerenciamento das imagens pode ser realizado na própria empresa, ou de qualquer lugar, via internet. A qualidade da visualização remota das imagens dependerá da taxa de upload¹ do plano de internet contratado.
 
 O HDCVI 1008 - Geração 2 é capaz de gravar e gerenciar imagens nas três tecnologias – analógica, HDCVI e IP –, proporcionando muito mais flexibilidade aos projetos de CFTV.
 
-O HDCVI 1008 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 15 FPS) ou em 1080N @ 12 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
+O HDCVI 1008 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 15 FPS) ou em 1080 N @ 12 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
 
-A Intelbras inova mais uma vez trazendo o 1080N como novo padrão de resolução. A resolução 1080N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
 De forma prática, podemos conectar aleatoriamente as tecnologias HDCVI ou analógica nos canais do DVR e ele automaticamente fará a identificação.
 
-### HDCVI1016G2
+### HDCVI 1016G2
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_44.jpg)
 
-Os equipamentos da linha Intelbras HDCVI gravam e transmitem imagens em HD utilizando os mesmos cabos e acessórios¹ do sistema analógico. Sem a necessidade de novos cabos, são a solução ideal para quem deseja imagens em resolução 720p (HD) e 1080N com baixo custo. E o melhor, a instalação é rápida e descomplicada. 
+Os equipamentos da linha Intelbras HDCVI gravam e transmitem imagens em HD utilizando os mesmos cabos e acessórios¹ do sistema analógico. Sem a necessidade de novos cabos, são a solução ideal para quem deseja imagens em resolução 720p (HD) e 1080 N com baixo custo. E o melhor, a instalação é rápida e descomplicada. 
 
 Com o Intelbras iSIC 6 para smartphones e o Intelbras S.I.M. Plus para desktops e notebooks, o gerenciamento das imagens pode ser realizado na própria empresa, ou de qualquer lugar, via internet. A qualidade da visualização remota das imagens dependerá da taxa de upload¹ do plano de internet contratado.
 
 O HDCVI 1016 - Geração 2 é capaz de gravar e gerenciar imagens nas três tecnologias – analógica, HDCVI e IP –, proporcionando muito mais flexibilidade aos projetos de CFTV.
 
-O HDCVI 1016 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 15 FPS) ou em 1080N @ 12 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
+O HDCVI 1016 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 15 FPS) ou em 1080 N @ 12 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
 
-A Intelbras inova mais uma vez trazendo o 1080N como novo padrão de resolução. A resolução 1080N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -614,7 +614,7 @@ Armazenamento por cartão SD de até 128 GB
 
 O cartão SD tem capacidade de armazenamento na medida certa para evitar riscos de corrosão dos arquivos devido a vibrações. Além disso, é fácil realizar a troca de cartão SD ou fazer backups.
 
-Rastreamento através de GPSe compatível com Google Maps
+Rastreamento através de GPS compatível com Google Maps
 
 Você pode planejar a rota do veículo e acompanhar o seu trajeto. O rastreamento é acompanhado pelo sistema de mapas do Google (Google Maps) que facilita os trajetos e fornece distâncias mais exatas, além de ser um software em português, didático e customizável.
 
@@ -634,7 +634,7 @@ Armazenamento por HD de até 2 TB
 
 O HD tem capacidade de armazenamento na medida certa para evitar riscos de corrosão dos arquivos devido a vibrações. Possui também a opção de SD para gravação secundária e espelhamento.
 
-Rastreamento através de GPS e compatível com Google Maps
+Rastreamento através de GPS compatível com Google Maps
 
 Você pode planejar a rota do veículo e acompanhar o seu trajeto. O rastreamento é acompanhado pelo sistema de mapas do Google (Google Maps), que facilita o trajeto e fornece distâncias mais exatas, além de ser um software em português, didático e customizável.
 
@@ -646,7 +646,7 @@ Você pode planejar a rota do veículo e acompanhar o seu trajeto. O rastreament
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_50.png)
 
-Deslizante Light 500R - contém:• Barra Crem. Super Aço Galv/Tabl. nylon.• Central eletrônica CP 4010F.• 2 Controles NEW EVO.• A versão i-Flash acompanha a central eletrônca CP 5000.
+Deslizante Light 500R - contém:• Barra Crem. Super Aço Galv/Tabl. nylon.• Central eletrônica CP 4010 F.• 2 Controles NEW EVO.• A versão i-Flash acompanha a central eletrônica CP 5000.
 
 ### DESLIZANTE FAST GATTER
 
@@ -670,7 +670,7 @@ Contém:• 2 barras cremalheira super aço galv/tabl. nylon.• Deslizante Fa
 
 * 2 Controles 3C.
 
-* A versão trifásica acompanha a central eletrônica CP4030 e a versão i–flash acompanha a central eletrônica CP 5000.
+* A versão trifásica acompanha a central eletrônica CP 4030 e a versão i–flash acompanha a central eletrônica CP 5000.
 
 ### AUTOMATIZADOR DESLIZANTE LIGHT
 
@@ -684,7 +684,7 @@ Barra Crem. Super Aço Galv/Tabl. Nylon.• Deslizante Light.• Central eletr
 
 EFICIENTE E CONFIÁVEL EM DIVERSOS TIPOS DE APLICAÇÕES RESIDENCIAIS.
 
-Agora com a nova Central Eletrônica CP3030N para motores monofásicos de 127 Vca e 220 Vca é uma grande atualização em relação ao modelo atual, trazendo muitas melhorias e inovações tecnológicas que instaladores e clientes vão aprovar, com mais robustez, proteção contra surtos elétricos e raios, nova fonte de alimentação e com um custo ainda melhor.Contém:• 2 Barras cremalheirasuper aço galv/tabl. nylon.• Deslizante Gatter 220v.• Central Eletrônico CP 3030.• 2 Controles 3C.
+Agora com a nova Central Eletrônica CP3030N para motores monofásicos de 127 Vca a 220 Vca é uma grande atualização em relação ao modelo atual, trazendo muitas melhorias e inovações tecnológicas que instaladores e clientes vão aprovar, com mais robustez, proteção contra surtos elétricos e raios, nova fonte de alimentação e com um custo ainda melhor.Contém:• 2 Barras cremalheiras super aço galv/tabl. nylon.• Deslizante Gatter 220v.• Central Eletrônico CP 3030.• 2 Controles 3C.
 
 ### DESLIZANTE FAST GATTER
 
@@ -718,17 +718,17 @@ Conheça as vantagens do Basculante Ultra Flash:• Coroa de Transmissão em Br
 
 CONFORTO E EFICIÊNCIA NA LINHA RESIDENCIAL
 
-Automatizador Basculante Home-Line da PECCININ é a solução ideal para quem quer controle e suavidade na abertura e fechamento de portões.Contém:• Acionado Basculante Gatter com 1,50 m.• Acessório de instalação.• Motor Z-B/P Gatter 3030 220V 60Hz.• Central Eletrônica CP 3030.• 2 Controles 3C.
+Automatizador Basculante Home-Line da PECCININ é a solução ideal para quem quer controle e suavidade na abertura e fechamento de portões.Contém:• Acionadora Basculante Gatter com 1,50 m.• Acessório de instalação.• Motor Z-B/P Gatter 3030 220V 60Hz.• Central Eletrônica CP 3030.• 2 Controles 3C.
 
 # Centrais eletrônicas
 
 ## CENTRAL ELETRÔNICA
 
-### CP 4020F
+### CP 4020 F
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_59.png)
 
- i-Track configurações automática do percurso do • Fonte Chaveada 95 ~ 240 Vca• Saída 12VCC - 700 ma• Embreagem Eletrônica• Receptora Digital Onboard• Rampa suave automática• Proteções de Surto e Raios (AC/DC)• Saída para Módulos• Ajuste na Distância de Frenagem• Fechamento Automático• Entrada para Fotocélula• Sinalização Fotocélula (LEDS)• Timer automático• Rele Auxiliar (CONTATO NA E NF)• Luz de Garagem• Fechadura Magnética• Sinaleira• Entrada para Botoeira (COMANDO)• Entrada para Fins de Curso• Sinalização para Fim de Curso Aberto / Fechado (COM LEDS)• Bornes robustos• Triac com Dissipador (PCB)• Acionamento de Potência (CHIP INTEGRADO)• Potência do Motor (cv) 1/2 MONO• Configuração para até 250 controles• Retardo ajustável• Rolling code
+ i-Track configurações automática do percurso do • Fonte Chaveada 95 ~ 240 Vca• Saída 12VCC - 700 ma• Embreagem Eletrônica• Receptor Digital Onboard• Rampa suave automática• Proteções de Surto e Raios (AC/DC)• Saída para Módulos• Ajuste na Distância de Frenagem• Fechamento Automático• Entrada para Fotocélula• Sinalização Fotocélula (LEDS)• Timer automático• Rele Auxiliar (CONTATO NA E NF)• Luz de Garagem• Fechadura Magnética• Sinaleira• Entrada para Botoeira (COMANDO)• Entrada para Fins de Curso• Sinalização para Fim de Curso Aberto / Fechado (COM LEDS)• Bornes robustos• Triac com Dissipador (PCB)• Acionamento de Potência (CHIP INTEGRADO)• Potência do Motor (cv) 1/2 MONO• Configuração para até 250 controles• Retardo ajustável• Rolling code
 
 ### CP 4000
 
@@ -736,7 +736,7 @@ Automatizador Basculante Home-Line da PECCININ é a solução ideal para quem qu
 
 QUALIDADE PARA DIVERSOS TIPOS DE APLICAÇÕES.
 
-A central eletrônica CP4000 tem seleção de tensão automática 127/220Vca, para motores de 1/2cv com embreagem eletrônica ajustável, memorização de percurso para frenagem suave, jumper seletor de função auxiliar (sinaleira, fechadura magnética, luz de garagem) e rampa de partida suave. Com ela você também pode ajustar o temporizador de abertura e fechamento e fechamento automático. A CP4000 também funciona como receptora (frequência 433Mhz) para até 250 transmissores, possui saída de 12Vcc/500mA para alimentação de fotocélulas, fotocélula, módulos externos, entrada para botoeira e fim-de-curso, além de ser compatível com os módulos opcionais MD-T01 e MD-T02.
+A central eletrônica CP4000 tem seleção de tensão automática 127/220 Vca, para motores de 1/2cv com embreagem eletrônica ajustável, memorização de percurso para frenagem suave, jumper seletor de função auxiliar (sinaleira, fechadura magnética, luz de garagem) e rampa de partida suave. Com ela você também pode ajustar o temporizador de abertura e fechamento e fechamento automático. A CP4000 também funciona como receptora (frequência 433Mhz) para até 250 transmissores, possui saída de 12Vcc/500mA para alimentação de fotocélulas, fotocélula, módulos externos, entrada para botoeira e fim-de-curso, além de ser compatível com os módulos opcionais MD-T01 e MD-T02.
 
 ### CP 3030
 
@@ -744,7 +744,7 @@ A central eletrônica CP4000 tem seleção de tensão automática 127/220Vca, pa
 
 MAIS ROBUSTEZ E INOVAÇÃO PARA QUEM ESTÁ SEMPRE EVOLUINDO
 
-A Central Eletrônica CP 3030N projetada para motores monofásicos 127Vca e 220Vca de até 1/3cv, é mais um lançamento com inovação tecnológica que só a Peccinin oferece! Ela é compacta, robusta, com componentes mais modernos e confiáveis, além de oferecer proteção anti-surto para descargas elétricas e raios, tecnologia inovadora no mercado
+A Central Eletrônica CP 3030 N projetada para motores monofásicos 127Vca e 220Vca de até 1/3cv, é mais um lançamento com inovação tecnológica que só a Peccinin oferece! Ela é compacta, robusta, com componentes mais modernos e confiáveis, além de oferecer proteção anti-surto para descargas elétricas e raios, tecnologia inovadora no mercado
 
 # Deslizante garen
 
@@ -772,7 +772,7 @@ Arame de Concertina é uma barreira de segurança laminada, de forma espiralada 
 
 Modelos: Espiral, Dupla Clipada, Flat chapada, Rede Laminada, Fita Laminada.
 
-## Concertina aspiral
+## Concertina espiral
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_64.jpg)
 
@@ -780,7 +780,7 @@ Modelos: Espiral, Dupla Clipada, Flat chapada, Rede Laminada, Fita Laminada.
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_65.jpg)
 
-Videos cameras
+Videos câmeras
 
 [https://www.youtube.com/watch?v=fQQQFZhybmQ-](https://www.youtube.com/watch?v=fQQQFZhybmQ-) Comparativo entre a resolução analógica e HDCVI
 
