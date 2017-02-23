@@ -22,17 +22,6 @@ menu-title: Início
 <script>
     var maw = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
     if (maw > 600) {
-        var section = document.querySelector('.section-home');
-        var backgroundContainer = document.createElement('div');
-        backgroundContainer.innerHTML = '<div class="background-content"></div>';
-        backgroundContainer.className = 'background-container';
-        var backgroundContent = backgroundContainer.querySelector('.background-content');
-        var backgroundVideo = document.createElement('video');
-        backgroundVideo.src = '{{ site.baseurl }}/midia/background-hero.mp4';
-        backgroundVideo.autoplay = true;
-        backgroundVideo.loop = true;
-        backgroundVideo.controls = false;
-        backgroundContent.appendChild(backgroundVideo);
-        console.log(backgroundContainer);
+        var section = document.querySelector('.section-home').innerHTML += '<div class="background-container"><video class="background-content" src="{{ site.baseurl }}/midia/background-hero.mp4" autoplay loop></video></div>';
     }
 </script>
