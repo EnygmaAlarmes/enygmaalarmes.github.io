@@ -12,9 +12,27 @@ menu-title: Início
     </div>
     <div data-cell="1of2">
         <ul class="seamless hero-gallery">
-            <li><img src="/img/hero/cadeados.jpg" alt="Sistemas de segurança"></li>
-            <li><img src="/img/hero/camera-na-parede.jpg" alt="Equipamentos de segurança"></li>
-            <li><img src="/img/hero/olho-de-camera.jpg" alt="Serviços de segurança"></li>
+            <li><img src="/img/hero/hero-1.jpg" alt="Sistemas de segurança"></li>
+            <li><img src="/img/hero/hero-2.jpg" alt="Serviços de segurança"></li>
+            <li><img src="/img/hero/hero-3.jpg" alt="Equipamentos de segurança"></li>
         </ul>
     </div>
 </div>
+
+<script>
+    var maw = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    if (maw > 600) {
+        var section = document.querySelector('.section-home');
+        var backgroundContainer = document.createElement('div');
+        backgroundContainer.innerHTML = '<div class="background-content"></div>';
+        backgroundContainer.className = 'background-container';
+        var backgroundContent = backgroundContainer.querySelector('.background-content');
+        var backgroundVideo = document.createElement('video');
+        backgroundVideo.src = '{{ site.baseurl }}/midia/background-hero.mp4';
+        backgroundVideo.autoplay = true;
+        backgroundVideo.loop = true;
+        backgroundVideo.controls = false;
+        backgroundContent.appendChild(backgroundVideo);
+        console.log(backgroundContainer);
+    }
+</script>
