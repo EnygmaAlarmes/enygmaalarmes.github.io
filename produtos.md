@@ -10,7 +10,11 @@ published: true
 
 Um sistema de alarme é um conjunto de equipamentos eletroeletrônicos que tem por finalidade informar a violação do perímetro ou local protegido, através de sinal sonoro visual.
 
-É um dos meios mais eficientes e baratos para prevenir acessos não autorizados, detectar incêndios, situações de perigo, etc.Sistemas de alarmes, além de eficientes na prática, ainda afastam os ladrões. Os invasores observam muito bem os costumes e horários dos moradores e principalmente os recursos de segurança de que a casa dispõe antes de realizar uma ação. Normalmente escolhem casas que não possuem recursos de segurança para roubar.Escolher bem um sistema de segurança e a empresa ou profissional que vai prestar os serviços de instalação é o ponto fundamental para a obtenção de bons resultados. De nada adianta ter modernos equipamentos, se estes forem instalados sem qualquer critério. Neste caso, o sofisticado sistema de segurança não demorará muito para revelar-se num grande problema. Para evitar problemas é fundamental que se realize um projeto de segurança. A experiência de técnicos especializados no assunto evita que dinheiro seja desperdiçado e garante que o equipamento instalado funcione adequadamente.
+É um dos meios mais eficientes e baratos para prevenir acessos não autorizados, detectar incêndios, situações de perigo, etc.
+
+Sistemas de alarmes, além de eficientes na prática, ainda afastam os ladrões. Os invasores observam muito bem os costumes e horários dos moradores e principalmente os recursos de segurança de que a casa dispõe antes de realizar uma ação. Normalmente escolhem casas que não possuem recursos de segurança para roubar.
+
+Escolher bem um sistema de segurança e a empresa ou profissional que vai prestar os serviços de instalação é o ponto fundamental para a obtenção de bons resultados. De nada adianta ter modernos equipamentos, se estes forem instalados sem qualquer critério. Neste caso, o sofisticado sistema de segurança não demorará muito para revelar-se num grande problema. Para evitar problemas é fundamental que se realize um projeto de segurança. A experiência de técnicos especializados no assunto evita que dinheiro seja desperdiçado e garante que o equipamento instalado funcione adequadamente.
 
 ## Alarmes monitorados e não monitorados acionado por controle ou teclado digital.
 
@@ -20,15 +24,83 @@ Um sistema de alarme é um conjunto de equipamentos eletroeletrônicos que tem p
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_1.png)Possui teclado LCD, nomes de usuários e zonas personalizáveis no display, identificação de usuário por controle remoto, fonte chaveada Full Range de 90-265 VAC (automática), software para download e upload (plataforma Windows®), compatível com a maioria dos modems convencionais. Ideal para empresas, residências, condomínios empresariais e demais estabelecimentos comerciais de pequeno e médio porte.
 
-» Fonte chaveada Full Range de 90-265 VAC (automática)» Software para download e upload (plataforma Windows®), compatível com a maioria dos modems convencionais» Até 2 partições» Acesso remoto via telefone» Download e visualização dos últimos 256 eventos com registro de data e hora» Capacidade para conexão de até 4 teclados e 4 receptores» Sistema de verificação de sabotagem da fiação dos sensores e dos dispositivos do barramento (teclados e receptores)» Autoativação programável por inatividade ou agendada por horário» Indicação de bateria baixa de sensores sem fio (sensores Intelbras série 2000)*» Detecção de bateria baixa, ausente, invertida e/ou em curto» Detecção de sobrecarga na saída auxiliar» Detecção de curto e corte da sirene» Detecção de corte da linha telefônica» Discadora para 8 números telefônicos (2 para monitoramento, 1 para download e 5 para telefones pessoais)» 3 protocolos de comunicação: Contact ID, Contact ID Programável, Ademco Express» Reportagem normal, dupla e split» 2 contas de monitoramento» Sistema de zona inteligente programável (evita falsos disparos)» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria» Recepção de até 128 dispositivos sem fio (sensores/controles remotos)*» 64 senhas» 2 saídas PGM programáveis» Bloqueio de reset» Capacidade para configuração de Zona 24 h com ou sem aviso sonoro» Cancelamento automático de zona» Zona de incêndio» Função Anunciador de presença por zona» Função Pânico e Pânico médico pelo teclado» Tempo de entrada e saída programáveis» Tempo de sirene programável em minutos» Desabilitação de sinalização no arme/desarme (bipe)» Visualização em tempo real do status da central e controle das operações (ativação, desativação, bypass, etc.)» Fusíveis de proteção rearmáveis
+» Fonte chaveada Full Range de 90-265 VAC (automática)
+» Software para download e upload (plataforma Windows®), compatível com a maioria dos modems convencionais
+» Até 2 partições
+» Acesso remoto via telefone
+» Download e visualização dos últimos 256 eventos com registro de data e hora
+» Capacidade para conexão de até 4 teclados e 4 receptores
+» Sistema de verificação de sabotagem da fiação dos sensores e dos dispositivos do barramento (teclados e receptores)
+» Autoativação programável por inatividade ou agendada por horário
+» Indicação de bateria baixa de sensores sem fio (sensores Intelbras série 2000)*
+» Detecção de bateria baixa, ausente, invertida e/ou em curto
+» Detecção de sobrecarga na saída auxiliar
+» Detecção de curto e corte da sirene
+» Detecção de corte da linha telefônica
+» Discadora para 8 números telefônicos (2 para monitoramento, 1 para download e 5 para telefones pessoais)
+» 3 protocolos de comunicação: Contact ID, Contact ID Programável, Ademco Express
+» Reportagem normal, dupla e split
+» 2 contas de monitoramento
+» Sistema de zona inteligente programável (evita falsos disparos)
+» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria
+» Recepção de até 128 dispositivos sem fio (sensores/controles remotos)*
+» 64 senhas
+» 2 saídas PGM programáveis
+» Bloqueio de reset
+» Capacidade para configuração de Zona 24 h com ou sem aviso sonoro
+» Cancelamento automático de zona
+» Zona de incêndio
+» Função Anunciador de presença por zona
+» Função Pânico e Pânico médico pelo teclado
+» Tempo de entrada e saída programáveis
+» Tempo de sirene programável em minutos
+» Desabilitação de sinalização no arme/desarme (bipe)
+» Visualização em tempo real do status da central e controle das operações (ativação, desativação, bypass, etc.)
+» Fusíveis de proteção rearmáveis
 
 ### AMT2018 INTELBRAS
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_2.jpg)
 
-Central de alarme com tecnologia avançada e fácil programação. Possui 8 memórias para números de telefone, função Pânico, função Emergência, zona 24 horas, carregador de bateria inteligente com proteção contra curto-circuito ou inversão de polaridade, temporização e função de teste de sensores.Podem ser conectadas a sensores de abertura, infravermelho, impacto e outros. Reportam eventos para 2 destinos IP. Um alarme residencial ideal para empresas, condomínios empresariais e demais estabelecimentos comerciais de pequeno e médio porte.
+Central de alarme com tecnologia avançada e fácil programação. Possui 8 memórias para números de telefone, função Pânico, função Emergência, zona 24 horas, carregador de bateria inteligente com proteção contra curto-circuito ou inversão de polaridade, temporização e função de teste de sensores.
 
-» Possibilidade de conexão através do software para smartphone AMT MOBILE» Reportagem de eventos para 2 destinos IP (empresas de monitoramento)» Módulo quadriband (850, 900, 1800 e 1900 MHz)» Suporte a 2 chips (SIM cards) de celular» GPRS Classe 10» Supervisão do link Ethernet com intervalos de tempo configuráveis» Operação com IP fixo ou dinâmico» Capacidade para conexões com destinos DNS» Utilização do protocolo TCP/IP como meio de transporte para eventos» Software para download e upload (plataforma Windows®), compatível com a maioria dos modems convencionais» Download e visualização dos últimos 256 eventos com registro de data e hora» Compatibilidade com a grande maioria de modems ADSL, hubs e roteadores disponíveis no mercado» Fonte chaveada Full Range de 90-265 VAC» Capacidade para conexão de até 4 teclados e 4 receptores» Até 2 partições» Identificação de usuário por controle remoto*» Sistema de verificação de sabotagem da fiação dos sensores e dos dispositivos do barramento (teclados e receptores)» Detecção de sobrecarga na saída auxiliar» Detecção de curto e corte da sirene» Detecção de corte da linha telefônica» Discadora para 8 números telefônicos (2 para monitoramento,1 para download e 5 para telefones pessoais)» 3 protocolos de comunicação para trafegar via linha telefônica: Contact ID, Contact ID Programável e Ademco Express» 2 contas de monitoramento» Reportagem normal, dupla e split» 2 saídas PGM programáveis» Autoativação programável por inatividade ou agendada por horário» Recepção de até 128 dispositivos sem fio (sensores/controles remotos)*» Cancelamento automático de zona» Configuração de Zona 24 h com aviso sonoro» Função Anunciador de presença por zona» 64 senhas» Fusíveis de proteção rearmáveis» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria» Indicação de bateria fraca de sensores sem fio (sensores Intelbras série 2000)» Gabinete plástico para proteção da central com alojamento para bateria
+Podem ser conectadas a sensores de abertura, infravermelho, impacto e outros. Reportam eventos para 2 destinos IP. Um alarme residencial ideal para empresas, condomínios empresariais e demais estabelecimentos comerciais de pequeno e médio porte.
+
+» Possibilidade de conexão através do software para smartphone AMT MOBILE
+» Reportagem de eventos para 2 destinos IP (empresas de monitoramento)
+» Módulo quadriband (850, 900, 1800 e 1900 MHz)
+» Suporte a 2 chips (SIM cards) de celular
+» GPRS Classe 10
+» Supervisão do link Ethernet com intervalos de tempo configuráveis
+» Operação com IP fixo ou dinâmico
+» Capacidade para conexões com destinos DNS
+» Utilização do protocolo TCP/IP como meio de transporte para eventos
+» Software para download e upload (plataforma Windows®), compatível com a maioria dos modems convencionais
+» Download e visualização dos últimos 256 eventos com registro de data e hora
+» Compatibilidade com a grande maioria de modems ADSL, hubs e roteadores disponíveis no mercado
+» Fonte chaveada Full Range de 90-265 VAC
+» Capacidade para conexão de até 4 teclados e 4 receptores
+» Até 2 partições
+» Identificação de usuário por controle remoto*
+» Sistema de verificação de sabotagem da fiação dos sensores e dos dispositivos do barramento (teclados e receptores)
+» Detecção de sobrecarga na saída auxiliar
+» Detecção de curto e corte da sirene
+» Detecção de corte da linha telefônica
+» Discadora para 8 números telefônicos (2 para monitoramento,1 para download e 5 para telefones pessoais)
+» 3 protocolos de comunicação para trafegar via linha telefônica: Contact ID, Contact ID Programável e Ademco Express
+» 2 contas de monitoramento
+» Reportagem normal, dupla e split
+» 2 saídas PGM programáveis
+» Autoativação programável por inatividade ou agendada por horário
+» Recepção de até 128 dispositivos sem fio (sensores/controles remotos)*
+» Cancelamento automático de zona
+» Configuração de Zona 24 h com aviso sonoro
+» Função Anunciador de presença por zona
+» 64 senhas
+» Fusíveis de proteção rearmáveis
+» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria
+» Indicação de bateria fraca de sensores sem fio (sensores Intelbras série 2000)
+» Gabinete plástico para proteção da central com alojamento para bateria
 
 ## LINHA NÃO MONITORADA
 
@@ -38,7 +110,14 @@ Central de alarme com tecnologia avançada e fácil programação. Possui 8 mem�
 
 Compacta, de fácil utilização e instalação, a ANM 2003 possui tempo de disparo da sirene programável, carregador de bateria (12V) inteligente com proteção contra curto-circuito ou inversão de polaridade e função de teste (JP2), que auxilia na instalação e manutenção do sistema de alarme. Pode ser conectada a vários tipos de sensores, como de abertura e infravermelho. Ideal para empresas, residências, condomínios residenciais e empresariais, demais estabelecimentos comerciais de pequeno e médio porte.
 
-» Fonte chaveada Full Range de 90-265 VAC (automática)» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria» Detecção de bateria baixa, ausente, invertida e/ou em curto» Receptor incorporado e controle remoto com bateria incluso» Capacidade para configuração de Zona 24 h com aviso sonoro» Tempo de sirene programável» Sinalização visual (status) na central de alarme» Gabinete plástico para proteção da central com alojamento para bateria
+» Fonte chaveada Full Range de 90-265 VAC (automática)
+» Carregador de bateria inteligente com proteção contra curto e inversão de polaridade da bateria
+» Detecção de bateria baixa, ausente, invertida e/ou em curto
+» Receptor incorporado e controle remoto com bateria incluso
+» Capacidade para configuração de Zona 24 h com aviso sonoro
+» Tempo de sirene programável
+» Sinalização visual (status) na central de alarme
+» Gabinete plástico para proteção da central com alojamento para bateria
 
 ### ASD-210 JFL
 
@@ -108,9 +187,11 @@ Sensor de abertura sem fio com ressonador SAW. Design ultra fino.
 
 Os sensores barreiras possuem tecnologia no-fog (anti neblina) que permitem sua instalação em locais com alta densidade de neblinas sem prejudicar seu funcionamento.
 
- Seu duplo feixe previne ainda os alarmes falsos garantindo máxima confiabilidade ao sensor.
+ 
+Seu duplo feixe previne ainda os alarmes falsos garantindo máxima confiabilidade ao sensor.
 
- - Distância máxima de 100m externo
+ 
+- Distância máxima de 100m externo
 
 - Distância máxima de 200m interno
 
@@ -122,7 +203,8 @@ Os sensores barreiras possuem tecnologia no-fog (anti neblina) que permitem sua 
 
 Características:
 
- - Ajuste de apontamento por multimetro e mira
+ 
+- Ajuste de apontamento por multimetro e mira
 
 - Ajuste de sensibilidade até 500m
 
@@ -146,9 +228,11 @@ Características:
 
 - Alimentação: 10~24v dc
 
-Especificações técnicas:
 
-- Número de feixes: Dois
+Especificações técnicas:
+
+
+- Número de feixes: Dois
 
 - Formas de detecção: Feixes Interrompidos ao mesmo tempo
 
@@ -178,7 +262,11 @@ Características:
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_10.png)
 
-Sensor infravermelho com cobertura de 12m e ângulo de 90º.Características Gerais3 níveis de sensibilidade.Detecção de sinal microcontrolado.Compensação de temperatura.
+Sensor infravermelho com cobertura de 12m e ângulo de 90º.
+Características Gerais
+3 níveis de sensibilidade.
+Detecção de sinal microcontrolado.
+Compensação de temperatura.
 
 ### DS-420 JFL
 
@@ -206,7 +294,12 @@ Duplo sensor infravermelho PET digital com cobertura de 14m e ângulo de 90º.
 
 O novo membro da família IVP possui lente leitosa, compensação automática de temperatura, cobertura com ângulo de 115° e alcance de 12m,  tudo isso evitando disparos falsos causados por objetos da sua casa.
 
-» Tecnologia digital de detecção microprocessada» 2 níveis de sensibilidade» Não necessita articulador para instalação na parede» Infravermelho passivo com duplo elemento» Estabilização e autoteste em apenas 40 segundos» Contato normalmente fechado
+» Tecnologia digital de detecção microprocessada
+» 2 níveis de sensibilidade
+» Não necessita articulador para instalação na parede
+» Infravermelho passivo com duplo elemento
+» Estabilização e autoteste em apenas 40 segundos
+» Contato normalmente fechado
 
 ### IVP 3000 PET INTELBRAS
 
@@ -214,7 +307,15 @@ O novo membro da família IVP possui lente leitosa, compensação automática de
 
 O sensor de infravermelho passivo IVP 3000 PET oferece detecção eficiente com redução do risco de falsos disparos causados pela detecção de animais domésticos. O detector irá soar o alarme quando uma pessoa entrar na área de detecção, porém não o fará quando animais domésticos entrarem na área protegida.
 
-» Compensação automática de temperatura» Redução de disparos falsos causados por interferência» Contador de pulsos ajustável» Proteção contra violação (tamper)» LED ligado/desligado selecionável» Saída de alarme NF/NA selecionável» Alta imunidade contra EMI/RFI» Microprocessado» Suporte incluso
+» Compensação automática de temperatura
+» Redução de disparos falsos causados por interferência
+» Contador de pulsos ajustável
+» Proteção contra violação (tamper)
+» LED ligado/desligado selecionável
+» Saída de alarme NF/NA selecionável
+» Alta imunidade contra EMI/RFI
+» Microprocessado
+» Suporte incluso
 
 # LINHA ELETRIFICADORES JFL
 
@@ -256,7 +357,9 @@ Eletrificador 0,5 J para cerca elétrica com arme/desarme por controle remoto, 1
 
 Eletrificador para cerca elétrica com arme/desarme por controle remoto e controle via aplicativo celular.
 
-AGORA COM 18.000VCENTELHA MAIS POTENTE
+
+AGORA COM 18.000V
+CENTELHA MAIS POTENTE
 
 * Energia de pulso de saída: 0,5 Joule.
 
@@ -306,7 +409,21 @@ Permite conversar com quem está chamando e abrir 2 fechaduras: contato seco e e
 
 Universal, pode ser usado em qualquer posição de ramal de central padrão ANATEL. Seu design exclusivo, possui fácil instalação, com abertura de fechadura através do apartamento ou senha pessoal. Uso para comunicação direta com o apartamento a partir do portão do condomínio.
 
-» Entrada para 2 botoeiras e 2 sensores de porta aberta» Controle de intertravamento para entrada de pedestres (eclusa ou gaiola)» Tamper de indicação de violação» Fonte interna Full range de 90 a 240 VAC (automática)» Entrada de fonte externa de fonte 12 VDC» Teclado luminoso» Comunicação e abertura de fechadura através do apartamento» Abertura de fechadura imediata por senha individual» Capacidade para até 1600 senhas de usuários» Programação de até 16 dígitos do prefixo e tecla portaria» Configuração do tipo de fechadura na saída 2 (AUX)» Ajuste de volume de áudio por programação (3 níveis)» Não perde as programações em caso de falta de energia elétrica» Memória das programações soqueteada» Atualização simples de firmware através de USB
+» Entrada para 2 botoeiras e 2 sensores de porta aberta
+» Controle de intertravamento para entrada de pedestres (eclusa ou gaiola)
+» Tamper de indicação de violação
+» Fonte interna Full range de 90 a 240 VAC (automática)
+» Entrada de fonte externa de fonte 12 VDC
+» Teclado luminoso
+» Comunicação e abertura de fechadura através do apartamento
+» Abertura de fechadura imediata por senha individual
+» Capacidade para até 1600 senhas de usuários
+» Programação de até 16 dígitos do prefixo e tecla portaria
+» Configuração do tipo de fechadura na saída 2 (AUX)
+» Ajuste de volume de áudio por programação (3 níveis)
+» Não perde as programações em caso de falta de energia elétrica
+» Memória das programações soqueteada
+» Atualização simples de firmware através de USB
 
 ### TDMI-200
 
@@ -314,7 +431,9 @@ Universal, pode ser usado em qualquer posição de ramal de central padrão ANAT
 
 O TDMI 200 possui design exclusivo que permite o uso em qualquer ambiente, já que pode ser utilizado em mesa ou instalado na parede do apartamento. É compatível com caixas 4x2 e conta com textura lisa, que facilita a limpeza, volume de toque ajustável e teclado na base.
 
-» Compatível com caixas 4 x 2 - fácil instalação» Textura lisa – fácil limpeza» Volume do toque ajustável
+» Compatível com caixas 4 x 2 - fácil instalação
+» Textura lisa – fácil limpeza
+» Volume do toque ajustável
 
 ### TP 2000
 
@@ -322,7 +441,23 @@ O TDMI 200 possui design exclusivo que permite o uso em qualquer ambiente, já q
 
 TP 2000 Desenvolvido para ambientes prediais e condomínios, o TP 2000 possui teclas de fácil usabilidade e LEDs que identificam quando há perda de chamada. Pode ser usado em mesa ou parede da portaria para comunicação entre o porteiro e os apartamentos. 
 
-» Identificação de chamadas» Viva-voz com ajuste de volume» Display LCD Luminoso» LEDs indicativos de campainha, nova chamada e viva-voz em uso» 3 teclas de memória direta» Discagem indireta para 10 números» Data e hora» Registro de 20 chamadas recebidas (atendidas e não atendidas) e 20 chamadas realizadas» Rediscagem para o último número ou para qualquer número registrado» Ajuste de contraste do display (8 níveis)» Código PABX» 2 níveis de volume de campainha» Funções Mudo e Pausa» Função Flash (ajustável: 100, 300, 600 ou 1.000 ms)» Indicação de bateria baixa» Exibição do tempo de duração da chamada no display durante a chamada» Menu em português
+» Identificação de chamadas
+» Viva-voz com ajuste de volume
+» Display LCD Luminoso
+» LEDs indicativos de campainha, nova chamada e viva-voz em uso
+» 3 teclas de memória direta
+» Discagem indireta para 10 números
+» Data e hora
+» Registro de 20 chamadas recebidas (atendidas e não atendidas) e 20 chamadas realizadas
+» Rediscagem para o último número ou para qualquer número registrado
+» Ajuste de contraste do display (8 níveis)
+» Código PABX
+» 2 níveis de volume de campainha
+» Funções Mudo e Pausa
+» Função Flash (ajustável: 100, 300, 600 ou 1.000 ms)
+» Indicação de bateria baixa
+» Exibição do tempo de duração da chamada no display durante a chamada
+» Menu em português
 
 ## LINHA CONDOMINIAL
 
@@ -332,7 +467,25 @@ TP 2000 Desenvolvido para ambientes prediais e condomínios, o TP 2000 possui te
 
 A CP 112 possui capacidade de 8 até 112 ramais e permite ligações sigilosas, diretas e sem custo entre apartamentos. Fácil de instalar e configurar (via software programador*) é ideal para condomínios com necessidade de até 112 pontos de conversação.
 
-» Bivolt automático» Relógio de tempo real» Pega-trote» Transferência» Siga-me» Despertador» Rechamada a ramal» Não perturbe» Bip de chamadas em espera» Numeração flexível de ramais» Função hotline» Toques diferenciados» Conferência» Portaria presente» Desvio de chamadas» Retorno se ocupado e se não atende» Espera com música, externa ou interna» Integração com dispositivos de segurança» Praticidade na instalação e facilidades nas programações
+» Bivolt automático
+» Relógio de tempo real
+» Pega-trote
+» Transferência
+» Siga-me
+» Despertador
+» Rechamada a ramal
+» Não perturbe
+» Bip de chamadas em espera
+» Numeração flexível de ramais
+» Função hotline
+» Toques diferenciados
+» Conferência
+» Portaria presente
+» Desvio de chamadas
+» Retorno se ocupado e se não atende
+» Espera com música, externa ou interna
+» Integração com dispositivos de segurança
+» Praticidade na instalação e facilidades nas programações
 
 ### CP 352
 
@@ -340,7 +493,29 @@ A CP 112 possui capacidade de 8 até 112 ramais e permite ligações sigilosas, 
 
 A CP 352 possui capacidade de 16 até 352 ramais e permite ligações sigilosas, diretas e sem custo entre apartamentos. Fácil de instalar e configurar (via software programador*) é ideal para condomínios com necessidade de até 352 pontos de conversação.
 
-» Conector de pressão (engate rápido) para conexão de ramais Bivolt automático» Identificação de ramal para os apartamentos» Placa de serviço com 2 linhas tronco e 24 ramais balanceados (opcional)» Numeração flexível de ramais» Consulta de número físico e flexível» Modo de acesso às linhas (alternado e sequencial)» Grupo atendedor com até 5 ramais por linha» Portaria presente» Desvio de chamadas» Relógio de tempo real» Bloqueio de ligação tarifada» Função Hot Ramal» Função hot portaria» Pega-trote» Transferência» Siga-me» Despertador» Conferência» Não perturbe» Bipe de chamadas em espera» Retorno se ocupado e se não atende» Espera com música, externa ou interna» Integração com dispositivos de segurança
+» Conector de pressão (engate rápido) para conexão de ramais Bivolt automático
+» Identificação de ramal para os apartamentos
+» Placa de serviço com 2 linhas tronco e 24 ramais balanceados (opcional)
+» Numeração flexível de ramais
+» Consulta de número físico e flexível
+» Modo de acesso às linhas (alternado e sequencial)
+» Grupo atendedor com até 5 ramais por linha
+» Portaria presente
+» Desvio de chamadas
+» Relógio de tempo real
+» Bloqueio de ligação tarifada
+» Função Hot Ramal
+» Função hot portaria
+» Pega-trote
+» Transferência
+» Siga-me
+» Despertador
+» Conferência
+» Não perturbe
+» Bipe de chamadas em espera
+» Retorno se ocupado e se não atende
+» Espera com música, externa ou interna
+» Integração com dispositivos de segurança
 
 ### CP 192
 
@@ -348,7 +523,21 @@ A CP 352 possui capacidade de 16 até 352 ramais e permite ligações sigilosas,
 
 A CP 192 possui capacidade de 16 até 192 ramais e permite ligações sigilosas, diretas e sem custo entre apartamentos. Fácil de instalar e configurar (via software programador*) é ideal para condomínios com necessidade de até 192 pontos de conversação.
 
-» Ligação direta, sem custo e sigilosa entre os apartamentos» Conector de pressão (engate rápido) para conexão dos ramais» Bivolt automático» Função Pânico: encaminha alerta para todos os ramais em casos de emergência» Numeração flexível de ramais» Modo de acesso às linhas (alternado e sequencial)» Grupo atendedor com até 5 ramais por linha» Portaria presente» Desvio de chamadas» Relógio de tempo real» Bloquei de ligação tarifada» Transferência» Pega trote» Siga-me» Despertador
+» Ligação direta, sem custo e sigilosa entre os apartamentos
+» Conector de pressão (engate rápido) para conexão dos ramais
+» Bivolt automático
+» Função Pânico: encaminha alerta para todos os ramais em casos de emergência
+» Numeração flexível de ramais
+» Modo de acesso às linhas (alternado e sequencial)
+» Grupo atendedor com até 5 ramais por linha
+» Portaria presente
+» Desvio de chamadas
+» Relógio de tempo real
+» Bloquei de ligação tarifada
+» Transferência
+» Pega trote
+» Siga-me
+» Despertador
 
 ### COMUNIC 48
 
@@ -356,7 +545,15 @@ A CP 192 possui capacidade de 16 até 192 ramais e permite ligações sigilosas,
 
 A COMUNIC 48 é fácil de instalar e de usar, ela chegou para ser a central de portaria com o melhor custo-benefício do mercado. Com capacidade para atender soluções até 48 pontos dentro de seu condomínio, realizando ligações sigilosas e sem custo entre os ramais.
 
-» Identificação de chamadas nas ligações entre ramais;» Programação e atualização simples através da entrada USB;» Possui software programador (terminal programador Intelbras – Maxcom)*;» Possui saída auxiliar para acionamento;» Discagem direta e sem custo de ramal para ramal;» Função Pânico (sinal de emergência);» Alterar ou programar numeração flexível direto do apartamento;» Transferência de ligações;» 8 enlaces para conversação.
+» Identificação de chamadas nas ligações entre ramais;
+» Programação e atualização simples através da entrada USB;
+» Possui software programador (terminal programador Intelbras – Maxcom)*;
+» Possui saída auxiliar para acionamento;
+» Discagem direta e sem custo de ramal para ramal;
+» Função Pânico (sinal de emergência);
+» Alterar ou programar numeração flexível direto do apartamento;
+» Transferência de ligações;
+» 8 enlaces para conversação.
 
 ### COMUNIC 16
 
@@ -558,7 +755,8 @@ O HDCVI 1004 - Geração 2 é capaz de gravar e gerenciar imagens nas três tecn
 
 O HDCVI 1004 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 30 FPS) ou em 1080 N @ 30FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
 
-A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p) com a gravação em resolução superior a HD (720p).
+Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -576,7 +774,8 @@ O HDCVI 1008 - Geração 2 é capaz de gravar e gerenciar imagens nas três tecn
 
 O HDCVI 1008 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 15 FPS) ou em 1080 N @ 12 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
 
-A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).
+Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -594,7 +793,8 @@ O HDCVI 1016 - Geração 2 é capaz de gravar e gerenciar imagens nas três tecn
 
 O HDCVI 1016 - Geração 2 grava imagens analógicas ou HDCVI com resolução HD (720p @ 15 FPS) ou em 1080 N @ 12 FPS garantindo melhor definição e riqueza de detalhes. Além disso, a tecnologia oferece maior alcance de transmissão e integração dos sistemas de áudio e controle PTZ em um único cabo de vídeo.
 
-A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
+A Intelbras inova mais uma vez trazendo o 1080 N como novo padrão de resolução. A resolução 1080 N traz o benefício da visualização de câmeras Full HD (1080p)2 com a gravação em resolução superior a HD (720p).
+Esse benefício faz com que a Série 1000 HDCVI se torne cada vez mais versátil e atenda grande parte dos projetos e clientes.
 
 Possui matriz virtual que permite reposicionar as imagens do plano de visualização sem precisar trocar os cabos de instalação. Além disso, exporta os vídeos em AVI, formato compatível com o Windows Media Player, dispensando o uso de programas para conversão.
 
@@ -642,11 +842,39 @@ Você pode planejar a rota do veículo e acompanhar o seu trajeto. O rastreament
 
 ## Automatizadores deslizantes
 
+### AUTOMATIZADOR DESLIZANTE LIGHT
+
+![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_53.png)
+
+Barra Crem. Super Aço Galv/Tabl. Nylon.
+• Deslizante Light.
+• Central eletrônica CP 4000.
+• 2 Controles 3C.
+• A versão i-Flash acompanha a central eletrônica CP 5000.
+
 ### DESLIZANTE LIGHT 500R
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_50.png)
 
-Deslizante Light 500R - contém:• Barra Crem. Super Aço Galv/Tabl. nylon.• Central eletrônica CP 4010 F.• 2 Controles NEW EVO.• A versão i-Flash acompanha a central eletrônica CP 5000.
+Deslizante Light 500R - contém:
+• Barra Crem. Super Aço Galv/Tabl. nylon.
+• Central eletrônica CP 4010 F.
+• 2 Controles NEW EVO.
+• A versão i-Flash acompanha a central eletrônica CP 5000.
+
+### AUTOMATIZADORES DESLIZANTES GATTER
+
+![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_54.png)
+
+EFICIENTE E CONFIÁVEL EM DIVERSOS TIPOS DE APLICAÇÕES RESIDENCIAIS.
+
+Agora com a nova Central Eletrônica CP3030N para motores monofásicos de 127 Vca a 220 Vca é uma grande atualização em relação ao modelo atual, trazendo muitas melhorias e inovações tecnológicas que instaladores e clientes vão aprovar, com mais robustez, proteção contra surtos elétricos e raios, nova fonte de alimentação e com um custo ainda melhor.
+
+Contém:
+• 2 Barras cremalheiras super aço galv/tabl. nylon.
+• Deslizante Gatter 220v.
+• Central Eletrônico CP 3030.
+• 2 Controles 3C.
 
 ### DESLIZANTE FAST GATTER
 
@@ -654,7 +882,11 @@ Deslizante Light 500R - contém:• Barra Crem. Super Aço Galv/Tabl. nylon.�
 
 KIT DESLIZANTE GATTER 220V
 
-Contém:• 2 barras cremalheira super aço galv/tabl. nylon.• Deslizante Fast Gatter 220v.• Central Eletrônica CP 3030.• 2 Controles 3C.
+Contém:
+• 2 barras cremalheira super aço galv/tabl. nylon.
+• Deslizante Fast Gatter 220v.
+• Central Eletrônica CP 3030.
+• 2 Controles 3C.
 
 ### AUTOMATIZADOR DESLIZANTE SUPER
 
@@ -672,26 +904,6 @@ Contém:• 2 barras cremalheira super aço galv/tabl. nylon.• Deslizante Fa
 
 * A versão trifásica acompanha a central eletrônica CP 4030 e a versão i–flash acompanha a central eletrônica CP 5000.
 
-### AUTOMATIZADOR DESLIZANTE LIGHT
-
-![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_53.png)
-
-Barra Crem. Super Aço Galv/Tabl. Nylon.• Deslizante Light.• Central eletrônica CP 4000.• 2 Controles 3C.• A versão i-Flash acompanha a central eletrônica CP 5000.
-
-### AUTOMATIZADORES DESLIZANTES GATTER
-
-![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_54.png)
-
-EFICIENTE E CONFIÁVEL EM DIVERSOS TIPOS DE APLICAÇÕES RESIDENCIAIS.
-
-Agora com a nova Central Eletrônica CP3030N para motores monofásicos de 127 Vca a 220 Vca é uma grande atualização em relação ao modelo atual, trazendo muitas melhorias e inovações tecnológicas que instaladores e clientes vão aprovar, com mais robustez, proteção contra surtos elétricos e raios, nova fonte de alimentação e com um custo ainda melhor.Contém:• 2 Barras cremalheiras super aço galv/tabl. nylon.• Deslizante Gatter 220v.• Central Eletrônico CP 3030.• 2 Controles 3C.
-
-### DESLIZANTE FAST GATTER
-
-![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_55.png)
-
- 2 barras cremalheira super aço galv/tabl. nylon.• Deslizante Fast Gatter 220v.• Central Eletrônica CP 3030.• 2 Controles 3C.
-
 ## Automatizadores basculantes
 
 ### BASCULANTE FAST GATTER
@@ -700,7 +912,11 @@ Agora com a nova Central Eletrônica CP3030N para motores monofásicos de 127 Vc
 
 CONFORTO E EFICIÊNCIA NA LINHA RESIDENCIAL
 
-Contém:• Acionador e acessórios Basculante Gatter 1.40m (P40).• Z-B/P Gatter 3030 220V 60HZ C/CP.• Central Eletrônica CP 3030.• 2 Controles 3C.
+Contém:
+• Acionador e acessórios Basculante Gatter 1.40m (P40).
+• Z-B/P Gatter 3030 220V 60HZ C/CP.
+• Central Eletrônica CP 3030.
+• 2 Controles 3C.
 
 ### BASCULANTE ULTRA FLASH
 
@@ -708,17 +924,33 @@ Contém:• Acionador e acessórios Basculante Gatter 1.40m (P40).• Z-B/P Ga
 
 A SOLUÇÃO MAIS PRÁTICA E VERSÁTIL PARA SUAS INSTALAÇÕES.
 
-Indicado para residências, estabelecimentos comerciais e industriais.*Tempo de abertura de 5 segundos com folha de 2,3m de altura sem rampa de desaceleração e abertura do portão para fora. Acompanha controle remoto 3C.
+Indicado para residências, estabelecimentos comerciais e industriais.
+*Tempo de abertura de 5 segundos com folha de 2,3m de altura 
+sem rampa de desaceleração e abertura do portão para fora. 
 
-Conheça as vantagens do Basculante Ultra Flash:• Coroa de Transmissão em Bronze;• Sistema de Destrave: Pino de Destrave;• Redutor: Incorporado à estrutura do motor;• Ventoinha no Motor;• Peso do Portão até 350Kg (balanceado com contrapeso).
+Acompanha controle remoto 3C.
 
-### GATTER
+Conheça as vantagens do Basculante Ultra Flash:
+• Coroa de Transmissão em Bronze;
+• Sistema de Destrave: Pino de Destrave;
+• Redutor: Incorporado à estrutura do motor;
+• Ventoinha no Motor;
+• Peso do Portão até 350Kg (balanceado com contrapeso).
+
+### GATTER 3020
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_58.png)
 
 CONFORTO E EFICIÊNCIA NA LINHA RESIDENCIAL
 
-Automatizador Basculante Home-Line da PECCININ é a solução ideal para quem quer controle e suavidade na abertura e fechamento de portões.Contém:• Acionadora Basculante Gatter com 1,50 m.• Acessório de instalação.• Motor Z-B/P Gatter 3030 220V 60Hz.• Central Eletrônica CP 3030.• 2 Controles 3C.
+Automatizador Basculante Home-Line da PECCININ é a solução ideal para quem quer controle e suavidade na abertura e fechamento de portões.
+
+Contém:
+• Acionadora Basculante Gatter com 1,50 m.
+• Acessório de instalação.
+• Motor Z-B/P Gatter 3030 220V 60Hz.
+• Central Eletrônica CP 3030.
+• 2 Controles 3C.
 
 # Centrais eletrônicas
 
@@ -728,7 +960,33 @@ Automatizador Basculante Home-Line da PECCININ é a solução ideal para quem qu
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_59.png)
 
- i-Track configurações automática do percurso do • Fonte Chaveada 95 ~ 240 Vca• Saída 12VCC - 700 ma• Embreagem Eletrônica• Receptor Digital Onboard• Rampa suave automática• Proteções de Surto e Raios (AC/DC)• Saída para Módulos• Ajuste na Distância de Frenagem• Fechamento Automático• Entrada para Fotocélula• Sinalização Fotocélula (LEDS)• Timer automático• Rele Auxiliar (CONTATO NA E NF)• Luz de Garagem• Fechadura Magnética• Sinaleira• Entrada para Botoeira (COMANDO)• Entrada para Fins de Curso• Sinalização para Fim de Curso Aberto / Fechado (COM LEDS)• Bornes robustos• Triac com Dissipador (PCB)• Acionamento de Potência (CHIP INTEGRADO)• Potência do Motor (cv) 1/2 MONO• Configuração para até 250 controles• Retardo ajustável• Rolling code
+ i-Track configurações automática do percurso do 
+• Fonte Chaveada 95 ~ 240 Vca
+• Saída 12VCC - 700 ma
+• Embreagem Eletrônica
+• Receptor Digital Onboard
+• Rampa suave automática
+• Proteções de Surto e Raios (AC/DC)
+• Saída para Módulos
+• Ajuste na Distância de Frenagem
+• Fechamento Automático
+• Entrada para Fotocélula
+• Sinalização Fotocélula (LEDS)
+• Timer automático
+• Rele Auxiliar (CONTATO NA E NF)
+• Luz de Garagem
+• Fechadura Magnética
+• Sinaleira
+• Entrada para Botoeira (COMANDO)
+• Entrada para Fins de Curso
+• Sinalização para Fim de Curso Aberto / Fechado (COM LEDS)
+• Bornes robustos
+• Triac com Dissipador (PCB)
+• Acionamento de Potência (CHIP INTEGRADO)
+• Potência do Motor (cv) 1/2 MONO
+• Configuração para até 250 controles
+• Retardo ajustável
+• Rolling code
 
 ### CP 4000
 
@@ -744,7 +1002,8 @@ A central eletrônica CP4000 tem seleção de tensão automática 127/220 Vca, p
 
 MAIS ROBUSTEZ E INOVAÇÃO PARA QUEM ESTÁ SEMPRE EVOLUINDO
 
-A Central Eletrônica CP 3030 N projetada para motores monofásicos 127Vca e 220Vca de até 1/3cv, é mais um lançamento com inovação tecnológica que só a Peccinin oferece! Ela é compacta, robusta, com componentes mais modernos e confiáveis, além de oferecer proteção anti-surto para descargas elétricas e raios, tecnologia inovadora no mercado
+A Central Eletrônica CP 3030 N projetada para motores monofásicos 127Vca e 220Vca de até 1/3cv, é mais um lançamento com inovação tecnológica que só a Peccinin oferece! 
+Ela é compacta, robusta, com componentes mais modernos e confiáveis, além de oferecer proteção anti-surto para descargas elétricas e raios, tecnologia inovadora no mercado
 
 # Deslizante garen
 
@@ -754,7 +1013,8 @@ Design e velocidade com mais segurança
 
 ![image alt text]({{ site.url }}/public/dR9kTwyitEyDRUGGQXaCw_img_62.png)
 
-A linha KDZ possui máquinas desenvolvidas para vários tipo de aplicações, sua carenagem com geometria inovadora veio para melhor integração à arquitetura. Seu chassi em alumínio torna a máquina muito mais leve.O acesso fácil ao conjunto de redução agiliza a manutenção. Para maior segurança, o destravamento do motor é feito com chave codificada. E graças à sua redução menor, a abertura e o fechamento são muito mais rápidos.
+A linha KDZ possui máquinas desenvolvidas para vários tipo de aplicações, sua carenagem com geometria inovadora veio para melhor integração à arquitetura. Seu chassi em alumínio torna a máquina muito mais leve.
+O acesso fácil ao conjunto de redução agiliza a manutenção. Para maior segurança, o destravamento do motor é feito com chave codificada. E graças à sua redução menor, a abertura e o fechamento são muito mais rápidos.
 
 ### Durata
 
@@ -782,9 +1042,12 @@ Modelos: Espiral, Dupla Clipada, Flat chapada, Rede Laminada, Fita Laminada.
 
 Videos câmeras
 
-[https://www.youtube.com/watch?v=fQQQFZhybmQ-](https://www.youtube.com/watch?v=fQQQFZhybmQ-) Comparativo entre a resolução analógica e HDCVI
+[https://www.youtube.com/watch?v=fQQQFZhybmQ-](https://www.youtube.com/watch?v=fQQQFZhybmQ-) 
+Comparativo entre a resolução analógica e HDCVI
 
-[https://www.youtube.com/watch?list=PLds5na9TX3-LmD4Hk3_NCoJRQViakN6EU&v=j3iQ9RpJZI8-](https://www.youtube.com/watch?list=PLds5na9TX3-LmD4Hk3_NCoJRQViakN6EU&v=j3iQ9RpJZI8-) Câmeras HDCVI - Primeira e Segunda Geração
+[https://www.youtube.com/watch?list=PLds5na9TX3-LmD4Hk3_NCoJRQViakN6EU&v=j3iQ9RpJZI8-](https://www.youtube.com/watch?list=PLds5na9TX3-LmD4Hk3_NCoJRQViakN6EU&v=j3iQ9RpJZI8-) 
+Câmeras HDCVI - Primeira e Segunda Geração
 
-[https://www.youtube.com/watch?v=eLjLd4tUOe4-](https://www.youtube.com/watch?v=eLjLd4tUOe4-) Câmera HDCVI - VHD 1010
+[https://www.youtube.com/watch?v=eLjLd4tUOe4-](https://www.youtube.com/watch?v=eLjLd4tUOe4-) 
+Câmera HDCVI - VHD 1010
 
