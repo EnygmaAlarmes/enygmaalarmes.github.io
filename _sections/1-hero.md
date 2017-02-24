@@ -18,13 +18,3 @@ menu-title: Início
         </ul>
     </div>
 </div>
-
-<script>
-    var maw = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-    if (!matchMedia('handheld').matches && maw > 600) {
-        var section = document.querySelector('.section-home').innerHTML += '<div class="background-container"><video class="background-content" src="{{ site.baseurl }}/midia/background-hero.mp4" autoplay loop></video></div>';
-    }
-    else {
-        console.log(false);
-    }
-</script>
