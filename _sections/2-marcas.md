@@ -7,7 +7,7 @@ name: marcas
         <img alt="PECCININ" src="{{ site.baseurl }}/img/marcas/peccinin.png" data-cell="shrink"/>
     </div>
     <div class="marcas-item" data-cell="shrink" data-grid="column center">
-        <img alt="SIEMENS" src="{{ site.baseurl }}/img/marcas/siemens.png" data-cell="shrink"/>
+        <img alt="INTELBRAS" src="{{ site.baseurl }}/img/marcas/intelbras.png" data-cell="shrink"/>
     </div>
     <div class="marcas-item" data-cell="shrink" data-grid="column center">
         <img alt="JFL" src="{{ site.baseurl }}/img/marcas/jfl.png" data-cell="shrink"/>
