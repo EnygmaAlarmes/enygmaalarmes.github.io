@@ -61,6 +61,19 @@ SlideShow.prototype =
 
 window.SlideShow = SlideShow
 
+slider = SlideShow
+     containerSelector: '.slider'
+     slideSelector: '.slide'
+     interval: 2000
+slider.play()
+
+slider.container.innerHTML += '<div class="slider-controls" data-grid="center spacing"></div>'
+sliderControls = slider.container.querySelector '.slider-controls'
+
+# Inserir marcadores de slides
+
+console.log sliderControls
+
 scrollToTarget = (target) ->
 	scrollTarget = $(target)[0].offsetTop
 	scrollToY scrollTarget - 20, 500, 'easeInOutQuint', () -> false
@@ -98,7 +111,7 @@ navigate = (e) ->
 				false
 
 _( $('a[href^="#"]') ).forEach (link) ->
-	link.addEventListener 'click', navigate
+	link.addEventListener( 'click', navigate ) unless link.href is '#'
 
 
 
