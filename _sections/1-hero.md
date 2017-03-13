@@ -12,9 +12,9 @@ menu-title: Início
     </div>
     <div data-cell="1of2">
         <ul class="seamless hero-gallery">
-            <li><img src="/img/hero/hero-1.jpg" alt="Sistemas de segurança"></li>
-            <li><img src="/img/hero/hero-2.jpg" alt="Serviços de segurança"></li>
-            <li><img src="/img/hero/hero-3.jpg" alt="Equipamentos de segurança"></li>
+            <li><img src="/img/hero/tela-de-monitoramento.jpg" alt="Sistemas de segurança"></li>
+            <li><img src="/img/hero/camera-na-parede.jpg" alt="Equipamentos de segurança"></li>
+            <li><img src="/img/hero/olho-de-camera.jpg" alt="Serviços de segurança"></li>
         </ul>
     </div>
 </div>
