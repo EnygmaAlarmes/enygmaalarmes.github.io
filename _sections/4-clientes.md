@@ -1,5 +1,6 @@
 ---
 name: clientes
+menu-title: Clientes
 ---
 
 <div class="wrapper">
@@ -21,14 +22,42 @@ name: clientes
 
 <script src="{{ site.baseurl }}/js/slider.js"></script>
 <script>
-slider = Slider({
-    parentSelector: '.slider',
-    childSelector: '.slide',
-    duration: 4000
-});
-slider.parent.classList.remove('no-js');
-slider
-    .play()
-    .on('mouseover', function(e) { slider.pause(); })
-    .on('mouseout', function(e) { slider.play(); });
+(function(){
+    var sliderControls = document.createElement('div');
+    sliderControls.className = 'slider-controls';
+    var slider = Slider({
+        parentSelector: '.slider',
+        childSelector: '.slide',
+        duration: 4000,
+        callback: function(slide, i) {
+            var controls = sliderControls.querySelectorAll('.slider-bullet');
+            controls.forEach(function(bullet, b){
+                if ( b === i ) {
+                    bullet.classList.add( 'active' );
+                }
+                else {
+                    bullet.classList.remove( 'active' );
+                }
+            });
+        }
+    });
+    slider.parent.classList.remove('no-js');
+    slider.parent.parentNode.appendChild(sliderControls);
+    slider
+        .play()
+        .on('mouseover', function(e) { slider.pause(); })
+        .on('mouseout', function(e) { slider.play(); });
+    slider.children.forEach( function(slide, i){
+        var bullet = document.createElement('div');
+        bullet.className = 'slider-bullet';
+        if (i === 0) bullet.classList.add('active');
+        bullet.addEventListener('click', function() {
+            slider.index = i;
+            slider.compose();
+        });
+        sliderControls.appendChild(bullet);
+    } );
+    sliderControls.addEventListener('mouseover', function(){ slider.pause() });
+    sliderControls.addEventListener('mouseout', function(){ slider.play() });
+})()
 </script>

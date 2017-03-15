@@ -39,10 +39,14 @@
         &:not(:last-child)
             margin-right: 20px
 
-    .active
+    .active:not([data-btn])
         text-decoration: none
         padding-bottom: 15px
         border-bottom: 5px solid $brand-color
+    
+    .active[data-btn]
+        background-color: $brand-color
+        color: #fff
 
     +media-query($on-palm)
         .page-link
@@ -53,10 +57,14 @@
     background-color: $brand-color
     padding: $spacing-unit 0
     color: #fff
-    .footer-heading
-        text-align: center
     a
         color: $ui-color-active
+    button
+        border: 1px solid
+        color: #fff
+        &:hover
+            background-color: #fff
+            color: $brand-color
 
 .footer-heading
     margin-bottom: $spacing-unit / 2
@@ -104,7 +112,7 @@
 .section-home
     background:
         color: rgba( darken($grey-color-light,10%), .5 )
-        image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%)
+        image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%)
     color: $brand-color
     overflow: hidden
     position: relative
@@ -200,12 +208,12 @@
     .slide
         position: absolute
         transition: .3s ease-in-out
-        &:not(.prev):not(.next):not(.current)
-            display: none
+        &:not(.current),
         &.prev
             opacity: 0
             transform: rotateX(90deg)
-        &.next
+        &.next,
+        &.next ~ :not(.prev):not(.current)
             opacity: 0
             transform: rotateX(-90deg)
         &.current
@@ -220,3 +228,20 @@
             &, &:not(.prev):not(.next):not(.current)
                 display: block
                 position: initial
+
+.slider-controls
+    display: table
+    margin: auto
+    .slider-bullet
+        display: inline-block
+        width: 20px
+        height: 20px
+        border-radius: 20px
+        background-color: rgba($grey-color, .3)
+        cursor: pointer
+        transition: .3s ease-in-out
+        &:not(:first-of-type)
+            margin-left: 10px
+        &.active
+            background-color: $brand-color
+            transition-delay: .3s

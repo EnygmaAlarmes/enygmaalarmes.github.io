@@ -40,7 +40,7 @@ _( $('a[href^="#"]') ).forEach (link) ->
 
 
 scrollSpy = () ->
-	links = _( $('.site-nav .page-link') )
+	links = _( $('.site-nav a') )
 	selectedHash = '#home'
 
 	links.forEach (link) ->

@@ -1,44 +1,41 @@
-<footer class="site-footer">
+<footer class="site-footer" id="contato">
 
-  <div class="wrapper footer-heading">
-  	<h3>O que há de melhor</h3>
-  	<p>Voluptatum, sed illum porro at autem asperiores eum, magnam ad sapiente in veritatis aut deleniti, maxime unde, blanditiis ab placeat? Incidunt, impedit!</p>
-  	<p>{{ site.description }}</p>
-  </div>
-
-  <div class="wrapper" data-grid="spacing">
-		<div data-cell="1of4">
-			<ul>
-				<li>Quos consectetur maiores</li>
-				<li>Lorem ipsum dolor sit amet</li>
-				<li>Consectetur praesentium</li>
-				<li>Quaerat itaque quam distinctio</li>
-			</ul>
+  <form class="wrapper" action="{{ site.baseurl }}/enviar_email.php" method="POST">
+  	<legend>Fale conosco</legend>
+	<div data-grid="spacing">
+		<div data-cell="2of3">
+			<p>
+				<label for="nome">Nome</label>
+				<input type="text" name="nome" required placeholder="Informe seu nome">
+			</p>
+			<div data-grid="spacing">
+				<p>
+					<label for="telefone">Telefone</label>
+					<input type="tel" name="telefone" required placeholder="(15) 0000-0000">
+				</p>
+				<p>
+					<label for="email">E-mail</label>
+					<input type="email" name="email" required placeholder="nome@dominio.com">
+				</p>
+			</div>
+			<p>
+				<label for="mensagem">Mensagem</label>
+				<textarea name="mensagem" cols="30" rows="5" placeholder="Digite a sua mensagem..."></textarea>
+			</p>
+			<p data-grid="end">
+				<button data-cell="shrink">Enviar</button>
+			</p>
 		</div>
-		<div data-cell="1of4">
-			<ul>
-				<li>Sunt a, blanditiis est</li>
-				<li>Excepturi eius ea nesciunt esse</li>
-				<li>Optio voluptates dolorem labore ullam</li>
-				<li>Laborum, atque! Consequatur</li>
+		<aside data-cell="1of3">
+			<ul class="seamless">
+				<li>Telefone?</li>
+				<li>E-mail?</li>
+				<li>Facebook?</li>
+				<li>Endereço?</li>
+				<li>Outros contatos?</li>
 			</ul>
-		</div>
-		<div data-cell="1of4">
-			<ul>
-				<li>Voluptates accusantium quasi</li>
-				<li>Corrupti, nostrum, temporibus</li>
-				<li>Nulla consectetur corporis</li>
-				<li>Numquam, quod voluptas</li>
-			</ul>
-		</div>
-		<div data-cell="1of4">
-			<ul>
-				<li>Qui incidunt possimus</li>
-				<li>Fugit neque adipisci</li>
-				<li>Non enim, reprehenderit</li>
-				<li>Sed odit, velit</li>
-			</ul>
-		</div>
-  </div>
+		</aside>
+	</div>
+  </form>
 
 </footer>

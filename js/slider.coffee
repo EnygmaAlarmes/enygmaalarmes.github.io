@@ -21,6 +21,7 @@ Slider.prototype =
         @children[prevIndex].classList.add 'prev'
         @children[@index].classList.add 'current'
         @children[nextIndex].classList.add 'next'
+        @config.callback(@children[@index], @index, @children) if typeof @config.callback is 'function'
         @
     play: () ->
         that = @
@@ -44,14 +45,6 @@ Slider.prototype =
     off: (event, fn) ->
         that = @
         @parent.removeEventListener event, fn
-        @
-    inspect: () ->
-        console.group @config.parentSelector
-        try
-            console.info @children.length + ' slides'
-        catch err
-            console.error err
-        console.groupEnd @config.parentSelector
         @
 
 window.Slider = Slider
