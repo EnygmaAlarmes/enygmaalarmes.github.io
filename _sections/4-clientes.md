@@ -5,7 +5,7 @@ menu-title: Clientes
 
 <div class="wrapper">
     <h2>Nossos parceiros e clientes</h2>
-    <div class="slider no-js">
+    <div class="clientes-galeria slider no-js">
         {% for cliente in site.data.clientes %}
             <article data-grid="center spacing" class="slide cliente-item">
                 <div data-cell="1of4" class="cliente-img">

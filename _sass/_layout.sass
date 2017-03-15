@@ -54,6 +54,7 @@
                 display: none
 
 .site-footer
+    min-height: calc(100vh - 62px)
     background-color: $brand-color
     padding: $spacing-unit 0
     color: #fff
@@ -150,6 +151,11 @@
 .section-clientes
     background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)
     color: #fff
+    .clientes-galeria
+        height: 280px
+        +media-query($on-palm)
+            height: 500px
+
     .cliente-item
         width: 100%
         margin: $spacing-unit auto
@@ -158,10 +164,17 @@
         border-radius: 20px
     +media-query($on-palm)
         .cliente-item
+            height: 460px
             padding-top: $spacing-unit / 2
             padding-bottom: $spacing-unit / 2
             margin-top: $spacing-unit / 2
             margin-bottom: $spacing-unit / 2
+        .cliente-metadata
+            max-width: 200px
+            > *
+                margin: 0
+            h1, h2, h3, h4, h5, h6
+                font-size: 20px
     +media-query($on-laptop)
         .cliente-img
             width: 200px
@@ -202,7 +215,6 @@
             background-color: $background-color
 
 .slider
-    height: 280px
     position: relative
     perspective: 3000px
     .slide
