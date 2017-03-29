@@ -266,7 +266,7 @@ O sensor de infravermelho passivo IVP 3000 PET oferece detecção eficiente com 
 - Microprocessado
 - Suporte incluso
 
-# LINHA ELETRIFICADORES JFL
+# Eletrificadores JFL
 
 ## COMO FUNCIONA?
 
@@ -510,7 +510,7 @@ Com custo-benefício insuperável, a COMUNIC 16 é a menor central de portaria m
 - Pega trote
 - Identificação da versão de software da central
 
-# DVRS E CÂMERAS INTELBRAS
+# DVRs e câmeras Intelbras
 
 ## COMO FUNCIONA?
 
