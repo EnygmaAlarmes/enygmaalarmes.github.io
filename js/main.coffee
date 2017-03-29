@@ -44,10 +44,10 @@ scrollSpy = () ->
 	selectedHash = '#home'
 
 	links.forEach (link) ->
-		thisSection = $(link.hash)[0]
-		bounds = thisSection.getBoundingClientRect()
-		if bounds.top <= window.innerHeight * .3 and bounds.bottom > 0
-			selectedHash = link.hash
+		if thisSection = $(link.hash)[0]
+			bounds = thisSection.getBoundingClientRect()
+			if bounds.top <= window.innerHeight * .3 and bounds.bottom > 0
+				selectedHash = link.hash
 
 	links.forEach (link) ->
 		if link.hash is selectedHash
