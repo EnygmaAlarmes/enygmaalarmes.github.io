@@ -27,7 +27,7 @@ headdings:
         name: automatizadores
     -
         menu-title: Centrais
-        name: centrais-eletrnicas
+        name: centrais-eletronicas
     -
         menu-title: Concertinas
         name: concertinas
@@ -968,7 +968,7 @@ Contém:
 -  Central Eletrônica CP 3030.
 -  2 Controles 3C.
 
-# Centrais eletrônicas
+<h1 id="centrais-eletronicas">Centrais eletrônicas</h1>
 
 ## CENTRAL ELETRÔNICA
 
