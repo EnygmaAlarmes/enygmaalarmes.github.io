@@ -1,6 +1,7 @@
 ---
 title: Nossos produtos
 layout: page
+permalink: /produtos/
 sections:
     - 
         menu-title: 'Home'

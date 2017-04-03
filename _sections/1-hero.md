@@ -8,7 +8,7 @@ menu-title: Início
     <div data-cell="1of3">
         <h1 class="hero-title">Somos especialistas em instalação e manutenção de sistemas de segurança</h1>
         <h2 class="hero-subtitle">Entregue o que há de melhor em sistemas de segurança para sua empresa e seus clientes</h2>
-        <p><a href="#contato" data-btn="">Solicite um orçamento</a></p>
+        <p><a href="/produtos/" data-btn="">Conheça nossos produtos</a> <a href="#contato" data-btn="">Solicite um orçamento</a></p>
     </div>
     <div data-cell="1of2">
         <ul class="seamless hero-gallery">
