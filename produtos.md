@@ -4,8 +4,9 @@ layout: page
 permalink: /produtos/
 sections:
     - 
-        menu-title: 'Home'
+        menu-title: 'Voltar à página inicial'
         href: '/'
+headdings:
     - 
         menu-title: Alarmes
         name: alarmes
@@ -31,6 +32,15 @@ sections:
         menu-title: Concertinas
         name: concertinas
 ---
+
+<nav class="sidebar site-nav">
+    <a href="#" class="menu-icon">{% include bar-menu.svg %} Produtos</a>
+    <div class="trigger">
+        {% for link in page.headdings %}
+            <a href="#{{ link.name }}" class="page-lik">{{ link.menu-title }}</a>
+        {% endfor %}
+    </div>
+</nav>
 
 # Alarmes
 
@@ -553,15 +563,21 @@ Para o bom funcionamento de uma câmera de segurança temos que instalar uma fon
 
 #### Comparativo entre a resolução analógica e HDCVI
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fQQQFZhybmQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-frame">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fQQQFZhybmQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 #### Câmeras HDCVI - Primeira e Segunda Geração
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j3iQ9RpJZI8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-frame">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j3iQ9RpJZI8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 #### Câmera HDCVI - VHD 1010
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLjLd4tUOe4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-frame">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eLjLd4tUOe4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Câmera HDCVI com infravermelho
 

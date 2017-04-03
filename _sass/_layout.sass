@@ -49,9 +49,16 @@
         color: #fff
 
     +media-query($on-palm)
+        .menu-icon
+            display: block
         .page-link
             &.desktop
                 display: none
+        .trigger
+            display: none
+        &:hover
+            .trigger
+                display: block
 
 .site-footer
     min-height: calc(100vh - 62px)
@@ -257,3 +264,48 @@
         &.active
             background-color: $brand-color
             transition-delay: .3s
+
+.sidebar
+    position: fixed
+    top: 62px
+    left: 0
+    right: 0
+    z-index: 999
+    padding: 10px
+    background-color: #fff
+    line-height: 2
+    box-shadow: 0 3px 30px 5px #fff
+    a
+        display: block
+        padding: 4px 15px
+        background-color: $grey-color-light
+        margin-bottom: 1px
+    .menu-icon
+        &:hover, &:focus
+            text-decoration: none
+        svg
+            vertical-align: text-top
+            color: inherit
+            *
+                fill: currentcolor
+    .trigger a
+        animation: show-up .3s ease-in-out forwards
+        transform-origin: 50% 0%
+        @for $i from 1 through 10
+            &:nth-of-type(#{$i})
+                animation-duration: .1s * $i
+
+    @keyframes show-up
+        0%
+            opacity: 0
+            transform: translateY(10px) scale(.9)
+        100%
+            opacity: 1
+            transform: translateY(0) scale(1)
+
+    +media-greater($on-palm)
+
+        left: auto
+        top: $spacing-unit * 2
+        right: $spacing-unit / 2
+        display: table
