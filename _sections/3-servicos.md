@@ -23,6 +23,7 @@ menu-title: Serviços
             Concertinas,
             Interfones prediais e residenciais,
             Monitoramento 24hs.
+            <a href="/produtos/">Veja todos os produtos...</a>
         </p>
     </div>
 </div>
