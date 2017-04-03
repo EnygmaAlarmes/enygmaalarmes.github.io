@@ -18,7 +18,7 @@ headdings:
         name: interfones-e-ramais
     -
         menu-title: Câmeras
-        name: dvrs-e-cmeras-intelbras
+        name: dvrs-e-cameras-intelbras
     -
         menu-title: Gravadores
         name: gravadores-digitais
@@ -549,7 +549,7 @@ Com custo-benefício insuperável, a COMUNIC 16 é a menor central de portaria m
 - Pega trote
 - Identificação da versão de software da central
 
-# DVRs e câmeras Intelbras
+<h1 id="dvrs-e-cameras-intelbras">DVRs e câmeras Intelbras</h1>
 
 ## COMO FUNCIONA?
 
