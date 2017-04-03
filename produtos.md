@@ -1,6 +1,34 @@
 ---
 title: Nossos produtos
 layout: page
+sections:
+    - 
+        menu-title: 'Home'
+        href: '/'
+    - 
+        menu-title: Alarmes
+        name: alarmes
+    -
+        menu-title: Eletrificadores
+        name: eletrificadores-jfl
+    -
+        menu-title: Interfones
+        name: interfones-e-ramais
+    -
+        menu-title: Câmeras
+        name: dvrs-e-cmeras-intelbras
+    -
+        menu-title: Gravadores
+        name: gravadores-digitais
+    -
+        menu-title: Automatizadores
+        name: automatizadores
+    -
+        menu-title: Centrais
+        name: centrais-eletrnicas
+    -
+        menu-title: Concertinas
+        name: concertinas
 ---
 
 # Alarmes
@@ -852,6 +880,26 @@ Contém:
 - 2 Controles 3C.
 - A versão trifásica acompanha a central eletrônica CP 4030 e a versão i–flash acompanha a central eletrônica CP 5000.
 
+## AUTOMATIZADORES DESLIZANTES GAREN
+
+### KDZ
+
+Design e velocidade com mais segurança
+
+![KDZ]({{ site.baseurl }}/img/produtos/kdz.png)
+
+A linha KDZ possui máquinas desenvolvidas para vários tipo de aplicações, sua carenagem com geometria inovadora veio para melhor integração à arquitetura. Seu chassi em alumínio torna a máquina muito mais leve.
+
+O acesso fácil ao conjunto de redução agiliza a manutenção. Para maior segurança, o destravamento do motor é feito com chave codificada. E graças à sua redução menor, a abertura e o fechamento são muito mais rápidos.
+
+### Durata
+
+Força e robustez
+
+![Durata]({{ site.baseurl }}/img/produtos/durata.png)
+
+A linha DZ Durata é ideal para portões grandes e pesados. Materiais mais fortes, coroa de bronze e redução banhada a óleo garantem performance superior e baixíssimo índice de manutenção.
+
 ## AUTOMATIZADORES BASCULANTES
 
 ### BASCULANTE FAST GATTER
@@ -958,27 +1006,7 @@ A Central Eletrônica CP 3030 N projetada para motores monofásicos 127Vca e 220
 
 Ela é compacta, robusta, com componentes mais modernos e confiáveis, além de oferecer proteção anti-surto para descargas elétricas e raios, tecnologia inovadora no mercado
 
-# Deslizante garen
-
-### KDZ
-
-Design e velocidade com mais segurança
-
-![KDZ]({{ site.baseurl }}/img/produtos/kdz.png)
-
-A linha KDZ possui máquinas desenvolvidas para vários tipo de aplicações, sua carenagem com geometria inovadora veio para melhor integração à arquitetura. Seu chassi em alumínio torna a máquina muito mais leve.
-
-O acesso fácil ao conjunto de redução agiliza a manutenção. Para maior segurança, o destravamento do motor é feito com chave codificada. E graças à sua redução menor, a abertura e o fechamento são muito mais rápidos.
-
-### Durata
-
-Força e robustez
-
-![Durata]({{ site.baseurl }}/img/produtos/durata.png)
-
-A linha DZ Durata é ideal para portões grandes e pesados. Materiais mais fortes, coroa de bronze e redução banhada a óleo garantem performance superior e baixíssimo índice de manutenção.
-
-# Concertina
+# Concertinas
 
 ## O QUE É?
 

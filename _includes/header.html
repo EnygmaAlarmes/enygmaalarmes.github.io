@@ -1,3 +1,5 @@
+{% assign my_sections = site.sections %}{% if page.sections %}{% assign my_sections = page.sections %}{% endif %}
+
 <header class="site-header">
 
   <div class="wrapper">
@@ -5,9 +7,10 @@
     <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo-enygma-horizontal.png" height="50" alt="{{ site.title }}"></a>
 
     <nav class="site-nav">
-      {% for section in site.sections %}
+      {% for section in my_sections %}
         {% if section.menu-title %}
-          <a class="page-link desktop" href="#{{ section.name }}">{{ section.menu-title }}</a>
+          {% capture href %}{% if section.href %}{{ section.href }}{% else %}#{{ section.name }}{% endif %}{% endcapture %}
+          <a class="page-link desktop" href="{{ href }}">{{ section.menu-title }}</a>
         {% endif %}
       {% endfor %}
       <a href="#contato" class="page-link">Contato</a>

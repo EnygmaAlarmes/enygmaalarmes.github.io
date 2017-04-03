@@ -1,8 +1,10 @@
 ---
 title: Nossos Parceiros e Clientes
 layout: page
-source-id: 1FWrVsky_lpNSSD4aYT2fwvwklIliSpjv1iXu7qUnGBo
-published: true
+sections:
+    -
+        menu-title: Home
+        href: '/'
 ---
 ![image alt text]({{ site.url }}/public/8TIx3JmxNSoIv6JNggP8A_img_0.png)
 
