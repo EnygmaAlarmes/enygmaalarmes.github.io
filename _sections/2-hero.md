@@ -1,6 +1,5 @@
 ---
 name: home
-menu-title: Início
 ---
 
 
