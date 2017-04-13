@@ -1,16 +1,18 @@
 ---
 ---
 
-$ = (selector) ->
+window.$ = (selector) ->
 	document.querySelectorAll(selector)
-_ = (nodeList, fn) ->
+window._ = (nodeList, fn) ->
 	if fn
 		Array.prototype.map.call(nodeList, fn)
 	else
 		Array.prototype.slice.call(nodeList)
 Element.prototype.prependChild = (child) ->
 	this.insertBefore child, this.firstChild
-
+window.tap = (obj) ->
+	console.log obj
+	obj
 
 
 scrollToTarget = (target) ->
