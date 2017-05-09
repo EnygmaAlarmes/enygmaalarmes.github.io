@@ -11,13 +11,12 @@ class Insta
         @length = el.getAttribute 'instagram-length'
         @template = el.querySelector('[instagram-item]').cloneNode(true)
         el.innerHTML = ''
-        console.log @length
 
     load: (fn) ->
         c = @container
         t = @template
         l = @length
-        tap HTTP.get @url, (data) ->
+        HTTP.get @url, (data) ->
             items = JSON.parse(data).data
             items.forEach (obj, index) ->
                 return if l? and index >= l
@@ -28,7 +27,6 @@ _ $ '[instagram-url]'
         Insta(insta).load (el, data) ->
             img = el.querySelector 'img'
             res = img.getAttribute 'instagram-src'
-            console.log data.images
             imgData = data.images[res]
             img.src = imgData.url
-            tap el
+            el

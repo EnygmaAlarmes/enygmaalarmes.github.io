@@ -31,7 +31,7 @@ menu-title: Clientes
         duration: 4000,
         callback: function(slide, i) {
             var controls = sliderControls.querySelectorAll('.slider-bullet');
-            controls.forEach(function(bullet, b){
+            Array.prototype.slice.call( controls ).forEach(function(bullet, b){
                 if ( b === i ) {
                     bullet.classList.add( 'active' );
                 }
@@ -47,7 +47,7 @@ menu-title: Clientes
         .play()
         .on('mouseover', function(e) { slider.pause(); })
         .on('mouseout', function(e) { slider.play(); });
-    slider.children.forEach( function(slide, i){
+    Array.prototype.slice.call(slider.children).forEach( function(slide, i){
         var bullet = document.createElement('div');
         bullet.className = 'slider-bullet';
         if (i === 0) bullet.classList.add('active');
